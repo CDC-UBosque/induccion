@@ -1,0 +1,562 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,200,300,400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+.divWaiting{
+   
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 2147483647;
+    /*opacity: 0.8;*/
+    overflow: hidden;
+    text-align: center; 
+    top: 0; 
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    padding-top:20%;
+} 
+
+
+.divWaiting i {
+    position: fixed;
+    top: 50%;
+}
+
+.waitBox {
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,1);
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px rgba(0,0,0,0.5);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+.divPantallaNegra {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 2147483647;
+    overflow: hidden;
+    text-align: center; 
+    top: 0; 
+    left: 0;
+    height: 800vh;
+    width: 100%;
+    padding-top:20%;
+}
+    .divPantallaNegra a {
+        background-color: rgba(54, 169, 225, 0);
+        display: block;
+        border: solid 2px rgba(255, 255, 255, 1);
+        text-align: center; 
+        color: rgba(255, 255, 255, 1);
+        font-size: 1em;
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .divPantallaNegra a:hover {
+        background-color: rgba(128, 20, 84, 1);
+        display: block;
+        border: solid 2px rgba(128, 20, 84,1);
+        text-align: center;
+        color: rgba(255, 255, 255, 1);
+        font-size: 1em;
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+.notificacionBox {
+    width: 100%;
+    min-height: 10px;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,1);
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px rgba(0,0,0,0.5);
+    display: table;
+    text-align: left;
+}
+    .notificacionBox p {
+        font-size: 0.85em;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    .notificacionBox p i {
+        color: rgba(54, 169, 225, 1);
+    }
+
+/*.notificacionesBD, .notificacionesCT, .notificacionesGR, .notificacionesOK {
+    margin-bottom: 10px;
+}*/ 
+
+.notificacionesOK {
+	width: 90%;
+	min-height: 10px;
+	background-color: #cae08f;
+	margin: 0 auto;
+	border-left: solid 6px #95c11f;
+	font-family: 'Source Sans Pro', Arial, sans-serif;
+	font-size: 0.9em;
+	color: #006633;
+	padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+	.notificacionesOK b {
+		font-weight: bold;
+		color: #006838;
+		font-size: 1em;
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+	}
+	.notificacionesOK strong {
+		font-weight: normal;
+		color: #000;
+	}
+    .notificacionesOK a {
+        display: block;
+        float: right;
+        background-color: #95c11f;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-size: 0.9em;
+    }
+    .notificacionesOK a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #95c11f;
+        text-decoration: none;
+        font-size: 0.9em;
+    }
+
+    .notificacionesOK em a {
+        display: block;
+        float: right;
+        background-color: #BE1E2D;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesOK em a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #BE1E2D;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+
+    .notificacionesOK small a {
+        display: block;
+        float: right;
+        background-color: #f39200;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesOK small a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #f39200;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+.notificacionesBD {
+	width: 90%;
+	min-height: 10px;
+	background-color: #de8a90;
+	margin: 0 auto;
+	border-left: solid 6px #be1622;
+	font-family: 'Source Sans Pro', Arial, sans-serif;
+	font-size: 0.9em;
+	color: #FFF;
+	padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+	.notificacionesBD b {
+		font-weight: normal;
+		color: #BE1E2D;
+		font-size: 0.9em;
+	}
+	.notificacionesBD strong {
+		font-weight: normal;
+		color: #BE1E2D;
+	}
+    .notificacionesBD a {
+        display: block;
+        float: right;
+        background-color: #95c11f;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-size: 0.9em;
+    }
+    .notificacionesBD a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #95c11f;
+        text-decoration: none;
+        font-size: 0.9em;
+    }
+
+    .notificacionesBD em a {
+        display: block;
+        float: right;
+        background-color: #BE1E2D;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesBD em a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #BE1E2D;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+
+    .notificacionesBD small a {
+        display: block;
+        float: right;
+        background-color: #f39200;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesBD small a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #f39200;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+.notificacionesCT {
+	width: 90%;
+	min-height: 10px;
+	background-color: #f9c87f;
+	margin: 0 auto;
+	border-left: solid 6px #f39200;
+	font-family: 'Source Sans Pro', Arial, sans-serif;
+	font-size: 0.9em;
+	color: #e94e1b;
+	padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+	.notificacionesCT b {
+		font-weight: normal;
+		color: #000;
+		font-size: 0.9em;
+	}
+	.notificacionesCT strong {
+		font-weight: normal;
+		color: #000;
+	}
+    .notificacionesCT a {
+        display: block;
+        float: right;
+        background-color: #95c11f;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-size: 0.9em;
+    }
+    .notificacionesCT a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #95c11f;
+        text-decoration: none;
+        font-size: 0.9em;
+    }
+
+    .notificacionesCT em a {
+        display: block;
+        float: right;
+        background-color: #BE1E2D;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesCT em a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #BE1E2D;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+
+    .notificacionesCT small a {
+        display: block;
+        float: right;
+        background-color: #f39200;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesCT small a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #f39200;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+
+.notificacionesGR {
+	width: 90%;
+	min-height: 10px;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+	border-left: solid 6px #e1e1e1;
+	font-family: 'Source Sans Pro', Arial, sans-serif;
+	font-size: 0.9em;
+	color: #454545;
+	padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+	.notificacionesGR b {
+		font-weight: normal;
+		color: #000;
+		font-size: 0.9em;
+	}
+	.notificacionesGR strong {
+		font-weight: normal;
+		color: #000;
+	}
+    .notificacionesGR a {
+        display: block;
+        float: right;
+        background-color: #95c11f;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-size: 0.9em;
+    }
+    .notificacionesGR a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #95c11f;
+        text-decoration: none;
+        font-size: 0.9em;
+    }
+
+    .notificacionesGR em a {
+        display: block;
+        float: right;
+        background-color: #BE1E2D;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesGR em a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #BE1E2D;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+
+    .notificacionesGR small a {
+        display: block;
+        float: right;
+        background-color: #e1e1e1;
+        padding: 5px 5px 5px 5px;
+        color: #FFF;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+    .notificacionesGR small a:hover {
+        display: block;
+        float: right;
+        background-color: #FFF;
+        padding: 5px 5px 5px 5px;
+        color: #e1e1e1;
+        text-decoration: none;
+        font-style: normal;
+        font-size: 0.9em;
+    }
+
+.BtnGoBtn {
+    width: 100%;
+    margin: 0 auto;
+    min-height: 10px;
+    display: table;
+}
+.BtnGo {
+    width: 100%;
+    text-align: right;
+    display: table;
+    padding-top: 5px;
+}
+    .BtnGo a {
+        display: inline-table;
+        background-color: rgba(57,181,74,0.5);
+        border: solid 1px rgba(57,181,74,1);
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: Helvetica, Arial, sans-serif;
+        color: rgb(255,255,255);
+        font-size: 16px;
+    }
+    .BtnGo a:link {
+        display: inline-table;
+        background-color: rgba(57,181,74,0.5);
+        border: solid 1px rgba(57,181,74,1);
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: Helvetica, Arial, sans-serif;
+        color: rgb(255,255,255);
+        font-size: 16px;
+    }
+    .BtnGo a:hover {
+        display: inline-table;
+        background-color: rgba(1,105,55,0.5);
+        border: solid 1px rgba(1,105,55,1);
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: underline;
+        font-family: Helvetica, Arial, sans-serif;
+        color: rgb(255,255,255);
+        font-size: 16px;
+    }
+
+.BtnPrevBtn {
+    width: 100%;
+    margin: 0 auto;
+    min-height: 10px;
+    display: table;
+}
+.BtnPrev {
+    width: 100%;
+    text-align: right;
+    display: table;
+    padding-top: 5px;
+}
+    .BtnPrev a {
+        display: inline-table;
+        background-color: #edac27;
+        border: solid 1px #8a4902;
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: Helvetica, Arial, sans-serif;
+        color: #fff;
+        font-size: 16px;
+    }
+    .BtnPrev a:link {
+        display: inline-table;
+        background-color: #edac27;
+        border: solid 1px #8a4902;
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: Helvetica, Arial, sans-serif;
+        color: #fff;
+        font-size: 16px;
+    }
+    .BtnPrev a:hover {
+        display: inline-table;
+        background-color: #e84904;
+        border: solid 1px #edac27;
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: underline;
+        font-family: Helvetica, Arial, sans-serif;
+        color: #FFF;
+        font-size: 16px;
+    }
+
+.btnHolder {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+.btnHolderBox {
+    float: right;
+    padding-left: 10px;
+}
+.BtnStopBtn {
+    width: 100%;
+    margin: 0 auto;
+    min-height: 10px;
+    display: table;
+}
+.BtnStop {
+    width: 100%;
+    text-align: right;
+    display: table;
+    padding-top: 5px;
+}
+    .BtnStop a {
+        display: inline-table;
+        background-color: #d58080;
+        border: solid 1px #BE1E2D;
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: Helvetica, Arial, sans-serif;
+        /*color: #BE1E2D;*/
+        color: #FFF;
+        font-size: 16px;
+    }
+    .BtnStop a:link {
+        display: inline-table;
+        background-color: #d58080;
+        border: solid 1px #BE1E2D;
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: Helvetica, Arial, sans-serif;
+        /*color: #BE1E2D;*/
+        color: #FFF;
+        font-size: 16px;
+    }
+    .BtnStop a:hover {
+        display: inline-table;
+        background-color: #BE1E2D;
+        border: solid 1px #420208;
+        padding: 5px 10px 5px 10px;
+        font-size: 15px;
+        text-decoration: underline;
+        font-family: Helvetica, Arial, sans-serif;
+        color: #FFF;
+        font-size: 16px;
+    }

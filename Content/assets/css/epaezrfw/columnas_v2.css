@@ -1,0 +1,8261 @@
+﻿/* Columnas normales */
+
+.scrollH {
+    width: 100%;
+    overflow-x: scroll;
+    white-space: nowrap;
+    float: left;
+    position: relative;
+}
+
+.Col1 {
+    width: 1%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col2 {
+    width: 2%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col3 {
+    width: 3%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col4 {
+    width: 4%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col5 {
+    width: 5%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col6 {
+    width: 6%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col7 {
+    width: 7%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col8 {
+    width: 8%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col9 {
+    width: 9%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col10 {
+    width: 10%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col11 {
+    width: 11%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col12 {
+    width: 12%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col13 {
+    width: 13%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col14 {
+    width: 14%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col15 {
+    width: 15%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col16 {
+    width: 16%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col17 {
+    width: 17%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col18 {
+    width: 18%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col19 {
+    width: 19%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col20 {
+    width: 20%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col21 {
+    width: 21%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col22 {
+    width: 22%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col23 {
+    width: 23%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col24 {
+    width: 24%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col25 {
+    width: 25%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col26 {
+    width: 26%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col27 {
+    width: 27%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col28 {
+    width: 28%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col29 {
+    width: 29%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col30 {
+    width: 30%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col31 {
+    width: 31%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col32 {
+    width: 32%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col33 {
+    width: 33%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col34 {
+    width: 34%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col35 {
+    width: 35%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col36 {
+    width: 36%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col37 {
+    width: 37%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col38 {
+    width: 38%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col39 {
+    width: 39%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col40 {
+    width: 40%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col41 {
+    width: 41%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col42 {
+    width: 42%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col43 {
+    width: 43%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col44 {
+    width: 44%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col45 {
+    width: 45%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col46 {
+    width: 46%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col47 {
+    width: 47%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col48 {
+    width: 48%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col49 {
+    width: 49%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col50 {
+    width: 50%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col51 {
+    width: 51%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col52 {
+    width: 52%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col53 {
+    width: 53%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col54 {
+    width: 54%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col55 {
+    width: 55%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col56 {
+    width: 56%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col57 {
+    width: 57%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col58 {
+    width: 58%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col59 {
+    width: 59%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col60 {
+    width: 60%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col61 {
+    width: 61%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col62 {
+    width: 62%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col63 {
+    width: 63%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col64 {
+    width: 64%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col65 {
+    width: 65%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col66 {
+    width: 66%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col67 {
+    width: 67%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col68 {
+    width: 68%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col69 {
+    width: 69%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col70 {
+    width: 70%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col71 {
+    width: 71%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col72 {
+    width: 72%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col73 {
+    width: 73%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col74 {
+    width: 74%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col75 {
+    width: 75%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col76 {
+    width: 76%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col77 {
+    width: 77%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col78 {
+    width: 78%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col79 {
+    width: 79%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col80 {
+    width: 80%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col81 {
+    width: 81%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col82 {
+    width: 82%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col83 {
+    width: 83%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col84 {
+    width: 84%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col85 {
+    width: 85%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col86 {
+    width: 86%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col87 {
+    width: 87%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col88 {
+    width: 88%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col89 {
+    width: 89%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col90 {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col91 {
+    width: 91%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col92 {
+    width: 92%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col93 {
+    width: 93%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col94 {
+    width: 94%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col95 {
+    width: 95%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col96 {
+    width: 96%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col97 {
+    width: 97%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col98 {
+    width: 98%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col99 {
+    width: 99%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col100 {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+}
+
+.Col100_BlancaRound {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+    background-color: rgba(255,255,255,1);
+    border: solid 1px rgba(0,0,0,0.12);
+    border-radius: 5px;
+}
+
+    .Col100_BlancaRound h1 {
+        color: rgba(0, 0, 0, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.6em;
+    }
+
+    .Col100_BlancaRound h2 {
+        color: rgba(0, 0, 0, 0.7);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.4em;
+    }
+    .Col100_BlancaRound h2 i {
+        color: rgba(28, 117, 188, 1);
+    }
+
+    .Col100_BlancaRound h3 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_BlancaRound h4 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_BlancaRound h5 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_BlancaRound h6 {
+        color: rgba(39, 170, 225, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+.Col100_RojaRound {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+    background-color: rgba(255,255,255,1);
+    border: solid 1px rgba(190, 30, 45, 1);
+    border-radius: 5px;
+}
+
+    .Col100_RojaRound h1 {
+        color: rgba(190, 30, 45, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.6em;
+    }
+
+    .Col100_RojaRound h2 {
+        color: rgba(190, 30, 45, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.4em;
+    }
+
+    .Col100_RojaRound h3 {
+        color: rgba(190, 30, 45, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_RojaRound h4 {
+        color: rgba(190, 30, 45, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_RojaRound h5 {
+        color: rgba(190, 30, 45, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_RojaRound h6 {
+        color: rgba(190, 30, 45, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+.Col100_NaranjaRound {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+    background-color: rgba(255,255,255,1);
+    border: solid 1px rgba(247, 148, 30, 1);
+    border-radius: 5px;
+}
+
+    .Col100_NaranjaRound h1 {
+        color: rgba(247, 148, 30, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.6em;
+    }
+
+    .Col100_NaranjaRound h2 {
+        color: rgba(247, 148, 30, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.4em;
+    }
+
+    .Col100_NaranjaRound h3 {
+        color: rgba(247, 148, 30, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_NaranjaRound h4 {
+        color: rgba(247, 148, 30, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_NaranjaRound h5 {
+        color: rgba(247, 148, 30, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_NaranjaRound h6 {
+        color: rgba(247, 148, 30, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+.Col100_AzulRound {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+    background-color: rgba(255,255,255,1);
+    border: solid 1px rgba(28, 117, 188, 1);
+    border-radius: 5px;
+}
+
+    .Col100_AzulRound h1 {
+        color: rgba(28, 117, 188, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.6em;
+    }
+
+    .Col100_AzulRound h2 {
+        color: rgba(28, 117, 188, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.4em;
+    }
+
+    .Col100_AzulRound h3 {
+        color: rgba(28, 117, 188, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_AzulRound h4 {
+        color: rgba(28, 117, 188, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_AzulRound h5 {
+        color: rgba(28, 117, 188, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_AzulRound h6 {
+        color: rgba(28, 117, 188, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+.Col100_VerdeRound {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+    background-color: rgba(255,255,255,1);
+    border: solid 1px rgba(0, 148, 68, 1);
+    border-radius: 5px;
+}
+
+    .Col100_VerdeRound h1 {
+        color: rgba(0, 148, 68, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.6em;
+    }
+
+    .Col100_VerdeRound h2 {
+        color: rgba(0, 148, 68, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.4em;
+    }
+
+    .Col100_VerdeRound h3 {
+        color: rgba(0, 148, 68, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_VerdeRound h4 {
+        color: rgba(0, 148, 68, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_VerdeRound h5 {
+        color: rgba(0, 148, 68, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_VerdeRound h6 {
+        color: rgba(0, 148, 68, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+
+.Col100_NegraRound {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    float: left;
+    background-color: rgba(255,255,255,1);
+    border: solid 1px rgba(0,0,0,0.9);
+    border-radius: 5px;
+}
+
+    .Col100_NegraRound h1 {
+        color: rgba(0, 0, 0, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_NegraRound h2 {
+        color: rgba(0, 0, 0, 0.7);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.1em;
+    }
+
+        .Col100_NegraRound h2 i {
+            color: rgba(28, 117, 188, 1);
+        }
+
+    .Col100_NegraRound h3 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1.2em;
+    }
+
+    .Col100_NegraRound h4 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_NegraRound h5 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+    .Col100_NegraRound h6 {
+        color: rgba(147, 0, 122, 1);
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 1em;
+    }
+
+
+.Col1-sm {
+    width: 1%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col2-sm {
+    width: 2%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col3-sm {
+    width: 3%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col4-sm {
+    width: 4%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col5-sm {
+    width: 5%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col6-sm {
+    width: 6%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col7-sm {
+    width: 7%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col8-sm {
+    width: 8%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col9-sm {
+    width: 9%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col10-sm {
+    width: 10%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col11-sm {
+    width: 11%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col12-sm {
+    width: 12%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col13-sm {
+    width: 13%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col14-sm {
+    width: 14%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col15-sm {
+    width: 15%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col16-sm {
+    width: 16%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col17-sm {
+    width: 17%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col18-sm {
+    width: 18%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col19-sm {
+    width: 19%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col20-sm {
+    width: 20%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col21-sm {
+    width: 21%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col22-sm {
+    width: 22%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col23-sm {
+    width: 23%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col24-sm {
+    width: 24%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col25-sm {
+    width: 25%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col26-sm {
+    width: 26%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col27-sm {
+    width: 27%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col28-sm {
+    width: 28%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col29-sm {
+    width: 29%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col30-sm {
+    width: 30%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col31-sm {
+    width: 31%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col32-sm {
+    width: 32%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col33-sm {
+    width: 33%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col34-sm {
+    width: 34%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col35-sm {
+    width: 35%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col36-sm {
+    width: 36%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col37-sm {
+    width: 37%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col38-sm {
+    width: 38%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col39-sm {
+    width: 39%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col40-sm {
+    width: 40%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col41-sm {
+    width: 41%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col42-sm {
+    width: 42%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col43-sm {
+    width: 43%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col44-sm {
+    width: 44%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col45-sm {
+    width: 45%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col46-sm {
+    width: 46%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col47-sm {
+    width: 47%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col48-sm {
+    width: 48%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col49-sm {
+    width: 49%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col50-sm {
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col51-sm {
+    width: 51%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col52-sm {
+    width: 52%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col53-sm {
+    width: 53%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col54-sm {
+    width: 54%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col55-sm {
+    width: 55%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col56-sm {
+    width: 56%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col57-sm {
+    width: 57%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col58-sm {
+    width: 58%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col59-sm {
+    width: 59%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col60-sm {
+    width: 60%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col61-sm {
+    width: 61%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col62-sm {
+    width: 62%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col63-sm {
+    width: 63%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col64-sm {
+    width: 64%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col65-sm {
+    width: 65%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col66-sm {
+    width: 66%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col67-sm {
+    width: 67%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col68-sm {
+    width: 68%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col69-sm {
+    width: 69%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col70-sm {
+    width: 70%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col71-sm {
+    width: 71%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col72-sm {
+    width: 72%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col73-sm {
+    width: 73%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col74-sm {
+    width: 74%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col75-sm {
+    width: 75%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col76-sm {
+    width: 76%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col77-sm {
+    width: 77%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col78-sm {
+    width: 78%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col79-sm {
+    width: 79%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col80-sm {
+    width: 80%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col81-sm {
+    width: 81%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col82-sm {
+    width: 82%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col83-sm {
+    width: 83%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col84-sm {
+    width: 84%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col85-sm {
+    width: 85%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col86-sm {
+    width: 86%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col87-sm {
+    width: 87%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col88-sm {
+    width: 88%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col89-sm {
+    width: 89%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col90-sm {
+    width: 90%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col91-sm {
+    width: 91%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col92-sm {
+    width: 92%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col93-sm {
+    width: 93%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col94-sm {
+    width: 94%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col95-sm {
+    width: 95%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col96-sm {
+    width: 96%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col97-sm {
+    width: 97%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col98-sm {
+    width: 98%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col99-sm {
+    width: 99%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+.Col100-sm {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+    min-height: 10px;
+}
+
+
+/* Fin de columnas normales*/
+
+
+/* Columnas al centro */
+
+.Col1_Center {
+    width: 1%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col2_Center {
+    width: 2%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col3_Center {
+    width: 3%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col4_Center {
+    width: 4%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col5_Center {
+    width: 5%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col6_Center {
+    width: 6%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col7_Center {
+    width: 7%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col8_Center {
+    width: 8%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col9_Center {
+    width: 9%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col10_Center {
+    width: 10%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col11_Center {
+    width: 11%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col12_Center {
+    width: 12%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col13_Center {
+    width: 13%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col14_Center {
+    width: 14%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col15_Center {
+    width: 15%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col16_Center {
+    width: 16%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col17_Center {
+    width: 17%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col18_Center {
+    width: 18%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col19_Center {
+    width: 19%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col20_Center {
+    width: 20%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col21_Center {
+    width: 21%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col22_Center {
+    width: 22%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col23_Center {
+    width: 23%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col24_Center {
+    width: 24%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col25_Center {
+    width: 25%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col26_Center {
+    width: 26%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col27_Center {
+    width: 27%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col28_Center {
+    width: 28%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col29_Center {
+    width: 29%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col30_Center {
+    width: 30%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col31_Center {
+    width: 31%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col32_Center {
+    width: 32%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col33_Center {
+    width: 33%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col34_Center {
+    width: 34%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col35_Center {
+    width: 35%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col36_Center {
+    width: 36%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col37_Center {
+    width: 37%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col38_Center {
+    width: 38%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col39_Center {
+    width: 39%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col40_Center {
+    width: 40%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col41_Center {
+    width: 41%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col42_Center {
+    width: 42%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col43_Center {
+    width: 43%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col44_Center {
+    width: 44%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col45_Center {
+    width: 45%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col46_Center {
+    width: 46%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col47_Center {
+    width: 47%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col48_Center {
+    width: 48%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col49_Center {
+    width: 49%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col50_Center {
+    width: 50%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col51_Center {
+    width: 51%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col52_Center {
+    width: 52%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col53_Center {
+    width: 53%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col54_Center {
+    width: 54%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col55_Center {
+    width: 55%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col56_Center {
+    width: 56%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col57_Center {
+    width: 57%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col58_Center {
+    width: 58%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col59_Center {
+    width: 59%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col60_Center {
+    width: 60%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col61_Center {
+    width: 61%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col62_Center {
+    width: 62%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col63_Center {
+    width: 63%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col64_Center {
+    width: 64%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col65_Center {
+    width: 65%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col66_Center {
+    width: 66%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col67_Center {
+    width: 67%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col68_Center {
+    width: 68%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col69_Center {
+    width: 69%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col70_Center {
+    width: 70%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col71_Center {
+    width: 71%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col72_Center {
+    width: 72%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col73_Center {
+    width: 73%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col74_Center {
+    width: 74%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col75_Center {
+    width: 75%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col76_Center {
+    width: 76%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col77_Center {
+    width: 77%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col78_Center {
+    width: 78%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col79_Center {
+    width: 79%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col80_Center {
+    width: 80%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col81_Center {
+    width: 81%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col82_Center {
+    width: 82%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col83_Center {
+    width: 83%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col84_Center {
+    width: 84%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col85_Center {
+    width: 85%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col86_Center {
+    width: 86%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col87_Center {
+    width: 87%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col88_Center {
+    width: 88%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col89_Center {
+    width: 89%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col90_Center {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col91_Center {
+    width: 91%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col92_Center {
+    width: 92%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col93_Center {
+    width: 93%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col94_Center {
+    width: 94%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col95_Center {
+    width: 95%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col96_Center {
+    width: 96%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col97_Center {
+    width: 97%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col98_Center {
+    width: 98%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col99_Center {
+    width: 99%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col100_Center {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+.Col1_Center-sm {
+    width: 1%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col2_Center-sm {
+    width: 2%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col3_Center-sm {
+    width: 3%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col4_Center-sm {
+    width: 4%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col5_Center-sm {
+    width: 5%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col6_Center-sm {
+    width: 6%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col7_Center-sm {
+    width: 7%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col8_Center-sm {
+    width: 8%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col9_Center-sm {
+    width: 9%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col10_Center-sm {
+    width: 10%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col11_Center-sm {
+    width: 11%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col12_Center-sm {
+    width: 12%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col13_Center-sm {
+    width: 13%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col14_Center-sm {
+    width: 14%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col15_Center-sm {
+    width: 15%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col16_Center-sm {
+    width: 16%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col17_Center-sm {
+    width: 17%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col18_Center-sm {
+    width: 18%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col19_Center-sm {
+    width: 19%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col20_Center-sm {
+    width: 20%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col21_Center-sm {
+    width: 21%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col22_Center-sm {
+    width: 22%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col23_Center-sm {
+    width: 23%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col24_Center-sm {
+    width: 24%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col25_Center-sm {
+    width: 25%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col26_Center-sm {
+    width: 26%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col27_Center-sm {
+    width: 27%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col28_Center-sm {
+    width: 28%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col29_Center-sm {
+    width: 29%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col30_Center-sm {
+    width: 30%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col31_Center-sm {
+    width: 31%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col32_Center-sm {
+    width: 32%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col33_Center-sm {
+    width: 33%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col34_Center-sm {
+    width: 34%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col35_Center-sm {
+    width: 35%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col36_Center-sm {
+    width: 36%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col37_Center-sm {
+    width: 37%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col38_Center-sm {
+    width: 38%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col39_Center-sm {
+    width: 39%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col40_Center-sm {
+    width: 40%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col41_Center-sm {
+    width: 41%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col42_Center-sm {
+    width: 42%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col43_Center-sm {
+    width: 43%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col44_Center-sm {
+    width: 44%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col45_Center-sm {
+    width: 45%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col46_Center-sm {
+    width: 46%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col47_Center-sm {
+    width: 47%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col48_Center-sm {
+    width: 48%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col49_Center-sm {
+    width: 49%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col50_Center-sm {
+    width: 50%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col51_Center-sm {
+    width: 51%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col52_Center-sm {
+    width: 52%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col53_Center-sm {
+    width: 53%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col54_Center-sm {
+    width: 54%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col55_Center-sm {
+    width: 55%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col56_Center-sm {
+    width: 56%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col57_Center-sm {
+    width: 57%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col58_Center-sm {
+    width: 58%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col59_Center-sm {
+    width: 59%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col60_Center-sm {
+    width: 60%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col61_Center-sm {
+    width: 61%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col62_Center-sm {
+    width: 62%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col63_Center-sm {
+    width: 63%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col64_Center-sm {
+    width: 64%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col65_Center-sm {
+    width: 65%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col66_Center-sm {
+    width: 66%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col67_Center-sm {
+    width: 67%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col68_Center-sm {
+    width: 68%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col69_Center-sm {
+    width: 69%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col70_Center-sm {
+    width: 70%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col71_Center-sm {
+    width: 71%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col72_Center-sm {
+    width: 72%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col73_Center-sm {
+    width: 73%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col74_Center-sm {
+    width: 74%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col75_Center-sm {
+    width: 75%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col76_Center-sm {
+    width: 76%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col77_Center-sm {
+    width: 77%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col78_Center-sm {
+    width: 78%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col79_Center-sm {
+    width: 79%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col80_Center-sm {
+    width: 80%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col81_Center-sm {
+    width: 81%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col82_Center-sm {
+    width: 82%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col83_Center-sm {
+    width: 83%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col84_Center-sm {
+    width: 84%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col85_Center-sm {
+    width: 85%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col86_Center-sm {
+    width: 86%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col87_Center-sm {
+    width: 87%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col88_Center-sm {
+    width: 88%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col89_Center-sm {
+    width: 89%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col90_Center-sm {
+    width: 90%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col91_Center-sm {
+    width: 91%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col92_Center-sm {
+    width: 92%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col93_Center-sm {
+    width: 93%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col94_Center-sm {
+    width: 94%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col95_Center-sm {
+    width: 95%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col96_Center-sm {
+    width: 96%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col97_Center-sm {
+    width: 97%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col98_Center-sm {
+    width: 98%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col99_Center-sm {
+    width: 99%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+.Col100_Center-sm {
+    width: 100%;
+    margin: 0 auto;
+    display: table;
+    min-height: 10px;
+}
+
+/* Fin de columnas al centro*/
+
+
+/* Columnas responsive */
+
+@media (max-width: 768px) {
+
+    .Col1 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col2 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col3 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col4 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col5 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col6 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col7 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col8 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col9 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col10 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col11 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col12 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col13 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col14 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col15 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col16 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col17 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col18 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col19 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col20 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col21 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col22 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col23 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col24 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col25 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col26 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col27 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col28 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col29 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col30 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col31 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col32 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col33 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col34 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col35 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col36 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col37 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col38 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col39 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col40 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col41 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col42 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col43 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col44 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col45 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col46 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col47 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col48 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col49 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col50 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col51 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col52 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col53 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col54 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col55 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col56 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col57 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col58 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col59 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col60 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col61 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col62 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col63 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col64 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col65 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col66 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col67 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col68 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col69 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col70 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col71 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col72 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col73 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col74 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col75 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col76 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col77 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col78 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col79 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col80 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col81 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col82 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col83 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col84 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col85 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col86 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col87 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col88 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col89 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col90 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col91 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col92 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col93 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col94 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col95 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col96 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col97 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col98 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col99 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col100 {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col1-sm {
+        width: 1%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col2-sm {
+        width: 2%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col3-sm {
+        width: 3%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col4-sm {
+        width: 4%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col5-sm {
+        width: 5%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col6-sm {
+        width: 6%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col7-sm {
+        width: 7%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col8-sm {
+        width: 8%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col9-sm {
+        width: 9%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col10-sm {
+        width: 10%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col11-sm {
+        width: 11%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col12-sm {
+        width: 12%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col13-sm {
+        width: 13%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col14-sm {
+        width: 14%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col15-sm {
+        width: 15%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col16-sm {
+        width: 16%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col17-sm {
+        width: 17%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col18-sm {
+        width: 18%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col19-sm {
+        width: 19%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col20-sm {
+        width: 20%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col21-sm {
+        width: 21%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col22-sm {
+        width: 22%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col23-sm {
+        width: 23%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col24-sm {
+        width: 24%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col25-sm {
+        width: 25%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col26-sm {
+        width: 26%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col27-sm {
+        width: 27%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col28-sm {
+        width: 28%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col29-sm {
+        width: 29%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col30-sm {
+        width: 30%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col31-sm {
+        width: 31%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col32-sm {
+        width: 32%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col33-sm {
+        width: 33%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col34-sm {
+        width: 34%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col35-sm {
+        width: 35%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col36-sm {
+        width: 36%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col37-sm {
+        width: 37%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col38-sm {
+        width: 38%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col39-sm {
+        width: 39%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col40-sm {
+        width: 40%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col41-sm {
+        width: 41%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col42-sm {
+        width: 42%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col43-sm {
+        width: 43%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col44-sm {
+        width: 44%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col45-sm {
+        width: 45%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col46-sm {
+        width: 46%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col47-sm {
+        width: 47%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col48-sm {
+        width: 48%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col49-sm {
+        width: 49%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col50-sm {
+        width: 50%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col51-sm {
+        width: 51%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col52-sm {
+        width: 52%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col53-sm {
+        width: 53%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col54-sm {
+        width: 54%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col55-sm {
+        width: 55%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col56-sm {
+        width: 56%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col57-sm {
+        width: 57%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col58-sm {
+        width: 58%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col59-sm {
+        width: 59%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col60-sm {
+        width: 60%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col61-sm {
+        width: 61%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col62-sm {
+        width: 62%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col63-sm {
+        width: 63%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col64-sm {
+        width: 64%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col65-sm {
+        width: 65%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col66-sm {
+        width: 66%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col67-sm {
+        width: 67%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col68-sm {
+        width: 68%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col69-sm {
+        width: 69%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col70-sm {
+        width: 70%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col71-sm {
+        width: 71%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col72-sm {
+        width: 72%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col73-sm {
+        width: 73%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col74-sm {
+        width: 74%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col75-sm {
+        width: 75%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col76-sm {
+        width: 76%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col77-sm {
+        width: 77%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col78-sm {
+        width: 78%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col79-sm {
+        width: 79%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col80-sm {
+        width: 80%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col81-sm {
+        width: 81%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col82-sm {
+        width: 82%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col83-sm {
+        width: 83%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col84-sm {
+        width: 84%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col85-sm {
+        width: 85%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col86-sm {
+        width: 86%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col87-sm {
+        width: 87%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col88-sm {
+        width: 88%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col89-sm {
+        width: 89%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col90-sm {
+        width: 90%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col91-sm {
+        width: 91%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col92-sm {
+        width: 92%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col93-sm {
+        width: 93%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col94-sm {
+        width: 94%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col95-sm {
+        width: 95%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col96-sm {
+        width: 96%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col97-sm {
+        width: 97%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col98-sm {
+        width: 98%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col99-sm {
+        width: 99%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col100-sm {
+        width: 100%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+
+    .Col1_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col2_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col3_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col4_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col5_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col6_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col7_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col8_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col9_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col10_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col11_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col12_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col13_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col14_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col15_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col16_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col17_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col18_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col19_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col20_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col21_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col22_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col23_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col24_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col25_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col26_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col27_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col28_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col29_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col30_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col31_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col32_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col33_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col34_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col35_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col36_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col37_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col38_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col39_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col40_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col41_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col42_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col43_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col44_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col45_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col46_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col47_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col48_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col49_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col50_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col51_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col52_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col53_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col54_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col55_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col56_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col57_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col58_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col59_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col60_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col61_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col62_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col63_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col64_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col65_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col66_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col67_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col68_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col69_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col70_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col71_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col72_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col73_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col74_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col75_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col76_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col77_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col78_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col79_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col80_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col81_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col82_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col83_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col84_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col85_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col86_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col87_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col88_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col89_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col90_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col91_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col92_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col93_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col94_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col95_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col96_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col97_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col98_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col99_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col100_Center {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .Col1_Center-sm {
+        width: 1%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col2_Center-sm {
+        width: 2%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col3_Center-sm {
+        width: 3%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col4_Center-sm {
+        width: 4%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col5_Center-sm {
+        width: 5%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col6_Center-sm {
+        width: 6%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col7_Center-sm {
+        width: 7%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col8_Center-sm {
+        width: 8%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col9_Center-sm {
+        width: 9%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col10_Center-sm {
+        width: 10%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col11_Center-sm {
+        width: 11%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col12_Center-sm {
+        width: 12%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col13_Center-sm {
+        width: 13%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col14_Center-sm {
+        width: 14%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col15_Center-sm {
+        width: 15%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col16_Center-sm {
+        width: 16%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col17_Center-sm {
+        width: 17%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col18_Center-sm {
+        width: 18%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col19_Center-sm {
+        width: 19%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col20_Center-sm {
+        width: 20%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col21_Center-sm {
+        width: 21%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col22_Center-sm {
+        width: 22%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col23_Center-sm {
+        width: 23%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col24_Center-sm {
+        width: 24%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col25_Center-sm {
+        width: 25%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col26_Center-sm {
+        width: 26%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col27_Center-sm {
+        width: 27%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col28_Center-sm {
+        width: 28%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col29_Center-sm {
+        width: 29%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col30_Center-sm {
+        width: 30%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col31_Center-sm {
+        width: 31%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col32_Center-sm {
+        width: 32%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col33_Center-sm {
+        width: 33%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col34_Center-sm {
+        width: 34%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col35_Center-sm {
+        width: 35%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col36_Center-sm {
+        width: 36%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col37_Center-sm {
+        width: 37%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col38_Center-sm {
+        width: 38%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col39_Center-sm {
+        width: 39%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col40_Center-sm {
+        width: 40%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col41_Center-sm {
+        width: 41%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col42_Center-sm {
+        width: 42%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col43_Center-sm {
+        width: 43%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col44_Center-sm {
+        width: 44%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col45_Center-sm {
+        width: 45%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col46_Center-sm {
+        width: 46%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col47_Center-sm {
+        width: 47%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col48_Center-sm {
+        width: 48%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col49_Center-sm {
+        width: 49%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col50_Center-sm {
+        width: 50%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col51_Center-sm {
+        width: 51%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col52_Center-sm {
+        width: 52%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col53_Center-sm {
+        width: 53%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col54_Center-sm {
+        width: 54%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col55_Center-sm {
+        width: 55%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col56_Center-sm {
+        width: 56%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col57_Center-sm {
+        width: 57%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col58_Center-sm {
+        width: 58%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col59_Center-sm {
+        width: 59%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col60_Center-sm {
+        width: 60%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col61_Center-sm {
+        width: 61%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col62_Center-sm {
+        width: 62%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col63_Center-sm {
+        width: 63%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col64_Center-sm {
+        width: 64%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col65_Center-sm {
+        width: 65%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col66_Center-sm {
+        width: 66%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col67_Center-sm {
+        width: 67%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col68_Center-sm {
+        width: 68%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col69_Center-sm {
+        width: 69%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col70_Center-sm {
+        width: 70%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col71_Center-sm {
+        width: 71%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col72_Center-sm {
+        width: 72%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col73_Center-sm {
+        width: 73%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col74_Center-sm {
+        width: 74%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col75_Center-sm {
+        width: 75%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col76_Center-sm {
+        width: 76%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col77_Center-sm {
+        width: 77%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col78_Center-sm {
+        width: 78%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col79_Center-sm {
+        width: 79%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col80_Center-sm {
+        width: 80%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col81_Center-sm {
+        width: 81%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col82_Center-sm {
+        width: 82%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col83_Center-sm {
+        width: 83%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col84_Center-sm {
+        width: 84%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col85_Center-sm {
+        width: 85%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col86_Center-sm {
+        width: 86%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col87_Center-sm {
+        width: 87%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col88_Center-sm {
+        width: 88%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col89_Center-sm {
+        width: 89%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col90_Center-sm {
+        width: 90%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col91_Center-sm {
+        width: 91%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col92_Center-sm {
+        width: 92%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col93_Center-sm {
+        width: 93%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col94_Center-sm {
+        width: 94%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col95_Center-sm {
+        width: 95%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col96_Center-sm {
+        width: 96%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col97_Center-sm {
+        width: 97%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col98_Center-sm {
+        width: 98%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col99_Center-sm {
+        width: 99%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+
+    .Col100_Center-sm {
+        width: 100%;
+        margin: 0 auto;
+        display: table;
+        min-height: 10px;
+    }
+}
+
+/* Fin de columnas responsive*/
+
+
+/* Spacers */
+
+.Spacer1 {
+    width: 100%;
+    height: 1px;
+    margin: 0 auto;
+}
+
+.Spacer2 {
+    width: 100%;
+    height: 2px;
+    margin: 0 auto;
+}
+
+.Spacer3 {
+    width: 100%;
+    height: 3px;
+    margin: 0 auto;
+}
+
+.Spacer4 {
+    width: 100%;
+    height: 4px;
+    margin: 0 auto;
+}
+
+.Spacer5 {
+    width: 100%;
+    height: 5px;
+    margin: 0 auto;
+}
+
+.Spacer6 {
+    width: 100%;
+    height: 6px;
+    margin: 0 auto;
+}
+
+.Spacer7 {
+    width: 100%;
+    height: 7px;
+    margin: 0 auto;
+}
+
+.Spacer8 {
+    width: 100%;
+    height: 8px;
+    margin: 0 auto;
+}
+
+.Spacer9 {
+    width: 100%;
+    height: 9px;
+    margin: 0 auto;
+}
+
+.Spacer10 {
+    width: 100%;
+    height: 10px;
+    margin: 0 auto;
+}
+
+.Spacer11 {
+    width: 100%;
+    height: 11px;
+    margin: 0 auto;
+}
+
+.Spacer12 {
+    width: 100%;
+    height: 12px;
+    margin: 0 auto;
+}
+
+.Spacer13 {
+    width: 100%;
+    height: 13px;
+    margin: 0 auto;
+}
+
+.Spacer14 {
+    width: 100%;
+    height: 14px;
+    margin: 0 auto;
+}
+
+.Spacer15 {
+    width: 100%;
+    height: 15px;
+    margin: 0 auto;
+}
+
+.Spacer16 {
+    width: 100%;
+    height: 16px;
+    margin: 0 auto;
+}
+
+.Spacer17 {
+    width: 100%;
+    height: 17px;
+    margin: 0 auto;
+}
+
+.Spacer18 {
+    width: 100%;
+    height: 18px;
+    margin: 0 auto;
+}
+
+.Spacer19 {
+    width: 100%;
+    height: 19px;
+    margin: 0 auto;
+}
+
+.Spacer20 {
+    width: 100%;
+    height: 20px;
+    margin: 0 auto;
+}
+
+.Spacer21 {
+    width: 100%;
+    height: 21px;
+    margin: 0 auto;
+}
+
+.Spacer22 {
+    width: 100%;
+    height: 22px;
+    margin: 0 auto;
+}
+
+.Spacer23 {
+    width: 100%;
+    height: 23px;
+    margin: 0 auto;
+}
+
+.Spacer24 {
+    width: 100%;
+    height: 24px;
+    margin: 0 auto;
+}
+
+.Spacer25 {
+    width: 100%;
+    height: 25px;
+    margin: 0 auto;
+}
+
+.Spacer26 {
+    width: 100%;
+    height: 26px;
+    margin: 0 auto;
+}
+
+.Spacer27 {
+    width: 100%;
+    height: 27px;
+    margin: 0 auto;
+}
+
+.Spacer28 {
+    width: 100%;
+    height: 28px;
+    margin: 0 auto;
+}
+
+.Spacer29 {
+    width: 100%;
+    height: 29px;
+    margin: 0 auto;
+}
+
+.Spacer30 {
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.Spacer31 {
+    width: 100%;
+    height: 31px;
+    margin: 0 auto;
+}
+
+.Spacer32 {
+    width: 100%;
+    height: 32px;
+    margin: 0 auto;
+}
+
+.Spacer33 {
+    width: 100%;
+    height: 33px;
+    margin: 0 auto;
+}
+
+.Spacer34 {
+    width: 100%;
+    height: 34px;
+    margin: 0 auto;
+}
+
+.Spacer35 {
+    width: 100%;
+    height: 35px;
+    margin: 0 auto;
+}
+
+.Spacer36 {
+    width: 100%;
+    height: 36px;
+    margin: 0 auto;
+}
+
+.Spacer37 {
+    width: 100%;
+    height: 37px;
+    margin: 0 auto;
+}
+
+.Spacer38 {
+    width: 100%;
+    height: 38px;
+    margin: 0 auto;
+}
+
+.Spacer39 {
+    width: 100%;
+    height: 39px;
+    margin: 0 auto;
+}
+
+.Spacer40 {
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.Spacer41 {
+    width: 100%;
+    height: 41px;
+    margin: 0 auto;
+}
+
+.Spacer42 {
+    width: 100%;
+    height: 42px;
+    margin: 0 auto;
+}
+
+.Spacer43 {
+    width: 100%;
+    height: 43px;
+    margin: 0 auto;
+}
+
+.Spacer44 {
+    width: 100%;
+    height: 44px;
+    margin: 0 auto;
+}
+
+.Spacer45 {
+    width: 100%;
+    height: 45px;
+    margin: 0 auto;
+}
+
+.Spacer46 {
+    width: 100%;
+    height: 46px;
+    margin: 0 auto;
+}
+
+.Spacer47 {
+    width: 100%;
+    height: 47px;
+    margin: 0 auto;
+}
+
+.Spacer48 {
+    width: 100%;
+    height: 48px;
+    margin: 0 auto;
+}
+
+.Spacer49 {
+    width: 100%;
+    height: 49px;
+    margin: 0 auto;
+}
+
+.Spacer50 {
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.Spacer51 {
+    width: 100%;
+    height: 51px;
+    margin: 0 auto;
+}
+
+.Spacer52 {
+    width: 100%;
+    height: 52px;
+    margin: 0 auto;
+}
+
+.Spacer53 {
+    width: 100%;
+    height: 53px;
+    margin: 0 auto;
+}
+
+.Spacer54 {
+    width: 100%;
+    height: 54px;
+    margin: 0 auto;
+}
+
+.Spacer55 {
+    width: 100%;
+    height: 55px;
+    margin: 0 auto;
+}
+
+.Spacer56 {
+    width: 100%;
+    height: 56px;
+    margin: 0 auto;
+}
+
+.Spacer57 {
+    width: 100%;
+    height: 57px;
+    margin: 0 auto;
+}
+
+.Spacer58 {
+    width: 100%;
+    height: 58px;
+    margin: 0 auto;
+}
+
+.Spacer59 {
+    width: 100%;
+    height: 59px;
+    margin: 0 auto;
+}
+
+.Spacer60 {
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.Spacer61 {
+    width: 100%;
+    height: 61px;
+    margin: 0 auto;
+}
+
+.Spacer62 {
+    width: 100%;
+    height: 62px;
+    margin: 0 auto;
+}
+
+.Spacer63 {
+    width: 100%;
+    height: 63px;
+    margin: 0 auto;
+}
+
+.Spacer64 {
+    width: 100%;
+    height: 64px;
+    margin: 0 auto;
+}
+
+.Spacer65 {
+    width: 100%;
+    height: 65px;
+    margin: 0 auto;
+}
+
+.Spacer66 {
+    width: 100%;
+    height: 66px;
+    margin: 0 auto;
+}
+
+.Spacer67 {
+    width: 100%;
+    height: 67px;
+    margin: 0 auto;
+}
+
+.Spacer68 {
+    width: 100%;
+    height: 68px;
+    margin: 0 auto;
+}
+
+.Spacer69 {
+    width: 100%;
+    height: 69px;
+    margin: 0 auto;
+}
+
+.Spacer70 {
+    width: 100%;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.Spacer71 {
+    width: 100%;
+    height: 71px;
+    margin: 0 auto;
+}
+
+.Spacer72 {
+    width: 100%;
+    height: 72px;
+    margin: 0 auto;
+}
+
+.Spacer73 {
+    width: 100%;
+    height: 73px;
+    margin: 0 auto;
+}
+
+.Spacer74 {
+    width: 100%;
+    height: 74px;
+    margin: 0 auto;
+}
+
+.Spacer75 {
+    width: 100%;
+    height: 75px;
+    margin: 0 auto;
+}
+
+.Spacer76 {
+    width: 100%;
+    height: 76px;
+    margin: 0 auto;
+}
+
+.Spacer77 {
+    width: 100%;
+    height: 77px;
+    margin: 0 auto;
+}
+
+.Spacer78 {
+    width: 100%;
+    height: 78px;
+    margin: 0 auto;
+}
+
+.Spacer79 {
+    width: 100%;
+    height: 79px;
+    margin: 0 auto;
+}
+
+.Spacer80 {
+    width: 100%;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.Spacer81 {
+    width: 100%;
+    height: 81px;
+    margin: 0 auto;
+}
+
+.Spacer82 {
+    width: 100%;
+    height: 82px;
+    margin: 0 auto;
+}
+
+.Spacer83 {
+    width: 100%;
+    height: 83px;
+    margin: 0 auto;
+}
+
+.Spacer84 {
+    width: 100%;
+    height: 84px;
+    margin: 0 auto;
+}
+
+.Spacer85 {
+    width: 100%;
+    height: 85px;
+    margin: 0 auto;
+}
+
+.Spacer86 {
+    width: 100%;
+    height: 86px;
+    margin: 0 auto;
+}
+
+.Spacer87 {
+    width: 100%;
+    height: 87px;
+    margin: 0 auto;
+}
+
+.Spacer88 {
+    width: 100%;
+    height: 88px;
+    margin: 0 auto;
+}
+
+.Spacer89 {
+    width: 100%;
+    height: 89px;
+    margin: 0 auto;
+}
+
+.Spacer90 {
+    width: 100%;
+    height: 90px;
+    margin: 0 auto;
+}
+
+.Spacer91 {
+    width: 100%;
+    height: 91px;
+    margin: 0 auto;
+}
+
+.Spacer92 {
+    width: 100%;
+    height: 92px;
+    margin: 0 auto;
+}
+
+.Spacer93 {
+    width: 100%;
+    height: 93px;
+    margin: 0 auto;
+}
+
+.Spacer94 {
+    width: 100%;
+    height: 94px;
+    margin: 0 auto;
+}
+
+.Spacer95 {
+    width: 100%;
+    height: 95px;
+    margin: 0 auto;
+}
+
+.Spacer96 {
+    width: 100%;
+    height: 96px;
+    margin: 0 auto;
+}
+
+.Spacer97 {
+    width: 100%;
+    height: 97px;
+    margin: 0 auto;
+}
+
+.Spacer98 {
+    width: 100%;
+    height: 98px;
+    margin: 0 auto;
+}
+
+.Spacer99 {
+    width: 100%;
+    height: 99px;
+    margin: 0 auto;
+}
+
+.Spacer100 {
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+}
+
+
+/* Fin de spacers */
+
+/* Imágenes */
+
+.img-responsive1 {
+    max-width: 1%;
+    width: 1%;
+}
+
+.img-responsive2 {
+    max-width: 2%;
+    width: 2%;
+}
+
+.img-responsive3 {
+    max-width: 3%;
+    width: 3%;
+}
+
+.img-responsive4 {
+    max-width: 4%;
+    width: 4%;
+}
+
+.img-responsive5 {
+    max-width: 5%;
+    width: 5%;
+}
+
+.img-responsive6 {
+    max-width: 6%;
+    width: 6%;
+}
+
+.img-responsive7 {
+    max-width: 7%;
+    width: 7%;
+}
+
+.img-responsive8 {
+    max-width: 8%;
+    width: 8%;
+}
+
+.img-responsive9 {
+    max-width: 9%;
+    width: 9%;
+}
+
+.img-responsive10 {
+    max-width: 10%;
+    width: 10%;
+}
+
+.img-responsive11 {
+    max-width: 11%;
+    width: 11%;
+}
+
+.img-responsive12 {
+    max-width: 12%;
+    width: 12%;
+}
+
+.img-responsive13 {
+    max-width: 13%;
+    width: 13%;
+}
+
+.img-responsive14 {
+    max-width: 14%;
+    width: 14%;
+}
+
+.img-responsive15 {
+    max-width: 15%;
+    width: 15%;
+}
+
+.img-responsive16 {
+    max-width: 16%;
+    width: 16%;
+}
+
+.img-responsive17 {
+    max-width: 17%;
+    width: 17%;
+}
+
+.img-responsive18 {
+    max-width: 18%;
+    width: 18%;
+}
+
+.img-responsive19 {
+    max-width: 19%;
+    width: 19%;
+}
+
+.img-responsive20 {
+    max-width: 20%;
+    width: 20%;
+}
+
+.img-responsive21 {
+    max-width: 21%;
+    width: 21%;
+}
+
+.img-responsive22 {
+    max-width: 22%;
+    width: 22%;
+}
+
+.img-responsive23 {
+    max-width: 23%;
+    width: 23%;
+}
+
+.img-responsive24 {
+    max-width: 24%;
+    width: 24%;
+}
+
+.img-responsive25 {
+    max-width: 25%;
+    width: 25%;
+}
+
+.img-responsive26 {
+    max-width: 26%;
+    width: 26%;
+}
+
+.img-responsive27 {
+    max-width: 27%;
+    width: 27%;
+}
+
+.img-responsive28 {
+    max-width: 28%;
+    width: 28%;
+}
+
+.img-responsive29 {
+    max-width: 29%;
+    width: 29%;
+}
+
+.img-responsive30 {
+    max-width: 30%;
+    width: 30%;
+}
+
+.img-responsive31 {
+    max-width: 31%;
+    width: 31%;
+}
+
+.img-responsive32 {
+    max-width: 32%;
+    width: 32%;
+}
+
+.img-responsive33 {
+    max-width: 33%;
+    width: 33%;
+}
+
+.img-responsive34 {
+    max-width: 34%;
+    width: 34%;
+}
+
+.img-responsive35 {
+    max-width: 35%;
+    width: 35%;
+}
+
+.img-responsive36 {
+    max-width: 36%;
+    width: 36%;
+}
+
+.img-responsive37 {
+    max-width: 37%;
+    width: 37%;
+}
+
+.img-responsive38 {
+    max-width: 38%;
+    width: 38%;
+}
+
+.img-responsive39 {
+    max-width: 39%;
+    width: 39%;
+}
+
+.img-responsive40 {
+    max-width: 40%;
+    width: 40%;
+}
+
+.img-responsive41 {
+    max-width: 41%;
+    width: 41%;
+}
+
+.img-responsive42 {
+    max-width: 42%;
+    width: 42%;
+}
+
+.img-responsive43 {
+    max-width: 43%;
+    width: 43%;
+}
+
+.img-responsive44 {
+    max-width: 44%;
+    width: 44%;
+}
+
+.img-responsive45 {
+    max-width: 45%;
+    width: 45%;
+}
+
+.img-responsive46 {
+    max-width: 46%;
+    width: 46%;
+}
+
+.img-responsive47 {
+    max-width: 47%;
+    width: 47%;
+}
+
+.img-responsive48 {
+    max-width: 48%;
+    width: 48%;
+}
+
+.img-responsive49 {
+    max-width: 49%;
+    width: 49%;
+}
+
+.img-responsive50 {
+    max-width: 50%;
+    width: 50%;
+}
+
+.img-responsive51 {
+    max-width: 51%;
+    width: 51%;
+}
+
+.img-responsive52 {
+    max-width: 52%;
+    width: 52%;
+}
+
+.img-responsive53 {
+    max-width: 53%;
+    width: 53%;
+}
+
+.img-responsive54 {
+    max-width: 54%;
+    width: 54%;
+}
+
+.img-responsive55 {
+    max-width: 55%;
+    width: 55%;
+}
+
+.img-responsive56 {
+    max-width: 56%;
+    width: 56%;
+}
+
+.img-responsive57 {
+    max-width: 57%;
+    width: 57%;
+}
+
+.img-responsive58 {
+    max-width: 58%;
+    width: 58%;
+}
+
+.img-responsive59 {
+    max-width: 59%;
+    width: 59%;
+}
+
+.img-responsive60 {
+    max-width: 60%;
+    width: 60%;
+}
+
+.img-responsive61 {
+    max-width: 61%;
+    width: 61%;
+}
+
+.img-responsive62 {
+    max-width: 62%;
+    width: 62%;
+}
+
+.img-responsive63 {
+    max-width: 63%;
+    width: 63%;
+}
+
+.img-responsive64 {
+    max-width: 64%;
+    width: 64%;
+}
+
+.img-responsive65 {
+    max-width: 65%;
+    width: 65%;
+}
+
+.img-responsive66 {
+    max-width: 66%;
+    width: 66%;
+}
+
+.img-responsive67 {
+    max-width: 67%;
+    width: 67%;
+}
+
+.img-responsive68 {
+    max-width: 68%;
+    width: 68%;
+}
+
+.img-responsive69 {
+    max-width: 69%;
+    width: 69%;
+}
+
+.img-responsive70 {
+    max-width: 70%;
+    width: 70%;
+}
+
+.img-responsive71 {
+    max-width: 71%;
+    width: 71%;
+}
+
+.img-responsive72 {
+    max-width: 72%;
+    width: 72%;
+}
+
+.img-responsive73 {
+    max-width: 73%;
+    width: 73%;
+}
+
+.img-responsive74 {
+    max-width: 74%;
+    width: 74%;
+}
+
+.img-responsive75 {
+    max-width: 75%;
+    width: 75%;
+}
+
+.img-responsive76 {
+    max-width: 76%;
+    width: 76%;
+}
+
+.img-responsive77 {
+    max-width: 77%;
+    width: 77%;
+}
+
+.img-responsive78 {
+    max-width: 78%;
+    width: 78%;
+}
+
+.img-responsive79 {
+    max-width: 79%;
+    width: 79%;
+}
+
+.img-responsive80 {
+    max-width: 80%;
+    width: 80%;
+}
+
+.img-responsive81 {
+    max-width: 81%;
+    width: 81%;
+}
+
+.img-responsive82 {
+    max-width: 82%;
+    width: 82%;
+}
+
+.img-responsive83 {
+    max-width: 83%;
+    width: 83%;
+}
+
+.img-responsive84 {
+    max-width: 84%;
+    width: 84%;
+}
+
+.img-responsive85 {
+    max-width: 85%;
+    width: 85%;
+}
+
+.img-responsive86 {
+    max-width: 86%;
+    width: 86%;
+}
+
+.img-responsive87 {
+    max-width: 87%;
+    width: 87%;
+}
+
+.img-responsive88 {
+    max-width: 88%;
+    width: 88%;
+}
+
+.img-responsive89 {
+    max-width: 89%;
+    width: 89%;
+}
+
+.img-responsive90 {
+    max-width: 90%;
+    width: 90%;
+}
+
+.img-responsive91 {
+    max-width: 91%;
+    width: 91%;
+}
+
+.img-responsive92 {
+    max-width: 92%;
+    width: 92%;
+}
+
+.img-responsive93 {
+    max-width: 93%;
+    width: 93%;
+}
+
+.img-responsive94 {
+    max-width: 94%;
+    width: 94%;
+}
+
+.img-responsive95 {
+    max-width: 95%;
+    width: 95%;
+}
+
+.img-responsive96 {
+    max-width: 96%;
+    width: 96%;
+}
+
+.img-responsive97 {
+    max-width: 97%;
+    width: 97%;
+}
+
+.img-responsive98 {
+    max-width: 98%;
+    width: 98%;
+}
+
+.img-responsive99 {
+    max-width: 99%;
+    width: 99%;
+}
+
+.img-responsive100 {
+    max-width: 100%;
+    width: 100%;
+}
+
+.img-responsive1-sm {
+    width: 1%;
+    margin: 0 auto;
+}
+
+.img-responsive2-sm {
+    width: 2%;
+    margin: 0 auto;
+}
+
+.img-responsive3-sm {
+    width: 3%;
+    margin: 0 auto;
+}
+
+.img-responsive4-sm {
+    width: 4%;
+    margin: 0 auto;
+}
+
+.img-responsive5-sm {
+    width: 5%;
+    margin: 0 auto;
+}
+
+.img-responsive6-sm {
+    width: 6%;
+    margin: 0 auto;
+}
+
+.img-responsive7-sm {
+    width: 7%;
+    margin: 0 auto;
+}
+
+.img-responsive8-sm {
+    width: 8%;
+    margin: 0 auto;
+}
+
+.img-responsive9-sm {
+    width: 9%;
+    margin: 0 auto;
+}
+
+.img-responsive10-sm {
+    width: 10%;
+    margin: 0 auto;
+}
+
+.img-responsive11-sm {
+    width: 11%;
+    margin: 0 auto;
+}
+
+.img-responsive12-sm {
+    width: 12%;
+    margin: 0 auto;
+}
+
+.img-responsive13-sm {
+    width: 13%;
+    margin: 0 auto;
+}
+
+.img-responsive14-sm {
+    width: 14%;
+    margin: 0 auto;
+}
+
+.img-responsive15-sm {
+    width: 15%;
+    margin: 0 auto;
+}
+
+.img-responsive16-sm {
+    width: 16%;
+    margin: 0 auto;
+}
+
+.img-responsive17-sm {
+    width: 17%;
+    margin: 0 auto;
+}
+
+.img-responsive18-sm {
+    width: 18%;
+    margin: 0 auto;
+}
+
+.img-responsive19-sm {
+    width: 19%;
+    margin: 0 auto;
+}
+
+.img-responsive20-sm {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.img-responsive21-sm {
+    width: 21%;
+    margin: 0 auto;
+}
+
+.img-responsive22-sm {
+    width: 22%;
+    margin: 0 auto;
+}
+
+.img-responsive23-sm {
+    width: 23%;
+    margin: 0 auto;
+}
+
+.img-responsive24-sm {
+    width: 24%;
+    margin: 0 auto;
+}
+
+.img-responsive25-sm {
+    width: 25%;
+    margin: 0 auto;
+}
+
+.img-responsive26-sm {
+    width: 26%;
+    margin: 0 auto;
+}
+
+.img-responsive27-sm {
+    width: 27%;
+    margin: 0 auto;
+}
+
+.img-responsive28-sm {
+    width: 28%;
+    margin: 0 auto;
+}
+
+.img-responsive29-sm {
+    width: 29%;
+    margin: 0 auto;
+}
+
+.img-responsive30-sm {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.img-responsive31-sm {
+    width: 31%;
+    margin: 0 auto;
+}
+
+.img-responsive32-sm {
+    width: 32%;
+    margin: 0 auto;
+}
+
+.img-responsive33-sm {
+    width: 33%;
+    margin: 0 auto;
+}
+
+.img-responsive34-sm {
+    width: 34%;
+    margin: 0 auto;
+}
+
+.img-responsive35-sm {
+    width: 35%;
+    margin: 0 auto;
+}
+
+.img-responsive36-sm {
+    width: 36%;
+    margin: 0 auto;
+}
+
+.img-responsive37-sm {
+    width: 37%;
+    margin: 0 auto;
+}
+
+.img-responsive38-sm {
+    width: 38%;
+    margin: 0 auto;
+}
+
+.img-responsive39-sm {
+    width: 39%;
+    margin: 0 auto;
+}
+
+.img-responsive40-sm {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.img-responsive41-sm {
+    width: 41%;
+    margin: 0 auto;
+}
+
+.img-responsive42-sm {
+    width: 42%;
+    margin: 0 auto;
+}
+
+.img-responsive43-sm {
+    width: 43%;
+    margin: 0 auto;
+}
+
+.img-responsive44-sm {
+    width: 44%;
+    margin: 0 auto;
+}
+
+.img-responsive45-sm {
+    width: 45%;
+    margin: 0 auto;
+}
+
+.img-responsive46-sm {
+    width: 46%;
+    margin: 0 auto;
+}
+
+.img-responsive47-sm {
+    width: 47%;
+    margin: 0 auto;
+}
+
+.img-responsive48-sm {
+    width: 48%;
+    margin: 0 auto;
+}
+
+.img-responsive49-sm {
+    width: 49%;
+    margin: 0 auto;
+}
+
+.img-responsive50-sm {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.img-responsive51-sm {
+    width: 51%;
+    margin: 0 auto;
+}
+
+.img-responsive52-sm {
+    width: 52%;
+    margin: 0 auto;
+}
+
+.img-responsive53-sm {
+    width: 53%;
+    margin: 0 auto;
+}
+
+.img-responsive54-sm {
+    width: 54%;
+    margin: 0 auto;
+}
+
+.img-responsive55-sm {
+    width: 55%;
+    margin: 0 auto;
+}
+
+.img-responsive56-sm {
+    width: 56%;
+    margin: 0 auto;
+}
+
+.img-responsive57-sm {
+    width: 57%;
+    margin: 0 auto;
+}
+
+.img-responsive58-sm {
+    width: 58%;
+    margin: 0 auto;
+}
+
+.img-responsive59-sm {
+    width: 59%;
+    margin: 0 auto;
+}
+
+.img-responsive60-sm {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.img-responsive61-sm {
+    width: 61%;
+    margin: 0 auto;
+}
+
+.img-responsive62-sm {
+    width: 62%;
+    margin: 0 auto;
+}
+
+.img-responsive63-sm {
+    width: 63%;
+    margin: 0 auto;
+}
+
+.img-responsive64-sm {
+    width: 64%;
+    margin: 0 auto;
+}
+
+.img-responsive65-sm {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.img-responsive66-sm {
+    width: 66%;
+    margin: 0 auto;
+}
+
+.img-responsive67-sm {
+    width: 67%;
+    margin: 0 auto;
+}
+
+.img-responsive68-sm {
+    width: 68%;
+    margin: 0 auto;
+}
+
+.img-responsive69-sm {
+    width: 69%;
+    margin: 0 auto;
+}
+
+.img-responsive70-sm {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.img-responsive71-sm {
+    width: 71%;
+    margin: 0 auto;
+}
+
+.img-responsive72-sm {
+    width: 72%;
+    margin: 0 auto;
+}
+
+.img-responsive73-sm {
+    width: 73%;
+    margin: 0 auto;
+}
+
+.img-responsive74-sm {
+    width: 74%;
+    margin: 0 auto;
+}
+
+.img-responsive75-sm {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.img-responsive76-sm {
+    width: 76%;
+    margin: 0 auto;
+}
+
+.img-responsive77-sm {
+    width: 77%;
+    margin: 0 auto;
+}
+
+.img-responsive78-sm {
+    width: 78%;
+    margin: 0 auto;
+}
+
+.img-responsive79-sm {
+    width: 79%;
+    margin: 0 auto;
+}
+
+.img-responsive80-sm {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.img-responsive81-sm {
+    width: 81%;
+    margin: 0 auto;
+}
+
+.img-responsive82-sm {
+    width: 82%;
+    margin: 0 auto;
+}
+
+.img-responsive83-sm {
+    width: 83%;
+    margin: 0 auto;
+}
+
+.img-responsive84-sm {
+    width: 84%;
+    margin: 0 auto;
+}
+
+.img-responsive85-sm {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.img-responsive86-sm {
+    width: 86%;
+    margin: 0 auto;
+}
+
+.img-responsive87-sm {
+    width: 87%;
+    margin: 0 auto;
+}
+
+.img-responsive88-sm {
+    width: 88%;
+    margin: 0 auto;
+}
+
+.img-responsive89-sm {
+    width: 89%;
+    margin: 0 auto;
+}
+
+.img-responsive90-sm {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img-responsive91-sm {
+    width: 91%;
+    margin: 0 auto;
+}
+
+.img-responsive92-sm {
+    width: 92%;
+    margin: 0 auto;
+}
+
+.img-responsive93-sm {
+    width: 93%;
+    margin: 0 auto;
+}
+
+.img-responsive94-sm {
+    width: 94%;
+    margin: 0 auto;
+}
+
+.img-responsive95-sm {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.img-responsive96-sm {
+    width: 96%;
+    margin: 0 auto;
+}
+
+.img-responsive97-sm {
+    width: 97%;
+    margin: 0 auto;
+}
+
+.img-responsive98-sm {
+    width: 98%;
+    margin: 0 auto;
+}
+
+.img-responsive99-sm {
+    width: 99%;
+    margin: 0 auto;
+}
+
+.img-responsive100-sm {
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .img-responsive1 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive2 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive3 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive4 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive5 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive6 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive7 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive8 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive9 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive10 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive11 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive12 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive13 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive14 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive15 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive16 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive17 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive18 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive19 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive20 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive21 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive22 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive23 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive24 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive25 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive26 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive27 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive28 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive29 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive30 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive31 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive32 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive33 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive34 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive35 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive36 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive37 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive38 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive39 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive40 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive41 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive42 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive43 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive44 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive45 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive46 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive47 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive48 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive49 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive50 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive51 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive52 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive53 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive54 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive55 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive56 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive57 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive58 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive59 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive60 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive61 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive62 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive63 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive64 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive65 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive66 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive67 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive68 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive69 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive70 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive71 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive72 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive73 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive74 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive75 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive76 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive77 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive78 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive79 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive80 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive81 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive82 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive83 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive84 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive85 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive86 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive87 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive88 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive89 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive90 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive91 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive92 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive93 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive94 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive95 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive96 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive97 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive98 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive99 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .img-responsive100 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+
+
+    .img-responsive1-sm {
+        width: 1%;
+        margin: 0 auto;
+    }
+
+    .img-responsive2-sm {
+        width: 2%;
+        margin: 0 auto;
+    }
+
+    .img-responsive3-sm {
+        width: 3%;
+        margin: 0 auto;
+    }
+
+    .img-responsive4-sm {
+        width: 4%;
+        margin: 0 auto;
+    }
+
+    .img-responsive5-sm {
+        width: 5%;
+        margin: 0 auto;
+    }
+
+    .img-responsive6-sm {
+        width: 6%;
+        margin: 0 auto;
+    }
+
+    .img-responsive7-sm {
+        width: 7%;
+        margin: 0 auto;
+    }
+
+    .img-responsive8-sm {
+        width: 8%;
+        margin: 0 auto;
+    }
+
+    .img-responsive9-sm {
+        width: 9%;
+        margin: 0 auto;
+    }
+
+    .img-responsive10-sm {
+        width: 10%;
+        margin: 0 auto;
+    }
+
+    .img-responsive11-sm {
+        width: 11%;
+        margin: 0 auto;
+    }
+
+    .img-responsive12-sm {
+        width: 12%;
+        margin: 0 auto;
+    }
+
+    .img-responsive13-sm {
+        width: 13%;
+        margin: 0 auto;
+    }
+
+    .img-responsive14-sm {
+        width: 14%;
+        margin: 0 auto;
+    }
+
+    .img-responsive15-sm {
+        width: 15%;
+        margin: 0 auto;
+    }
+
+    .img-responsive16-sm {
+        width: 16%;
+        margin: 0 auto;
+    }
+
+    .img-responsive17-sm {
+        width: 17%;
+        margin: 0 auto;
+    }
+
+    .img-responsive18-sm {
+        width: 18%;
+        margin: 0 auto;
+    }
+
+    .img-responsive19-sm {
+        width: 19%;
+        margin: 0 auto;
+    }
+
+    .img-responsive20-sm {
+        width: 20%;
+        margin: 0 auto;
+    }
+
+    .img-responsive21-sm {
+        width: 21%;
+        margin: 0 auto;
+    }
+
+    .img-responsive22-sm {
+        width: 22%;
+        margin: 0 auto;
+    }
+
+    .img-responsive23-sm {
+        width: 23%;
+        margin: 0 auto;
+    }
+
+    .img-responsive24-sm {
+        width: 24%;
+        margin: 0 auto;
+    }
+
+    .img-responsive25-sm {
+        width: 25%;
+        margin: 0 auto;
+    }
+
+    .img-responsive26-sm {
+        width: 26%;
+        margin: 0 auto;
+    }
+
+    .img-responsive27-sm {
+        width: 27%;
+        margin: 0 auto;
+    }
+
+    .img-responsive28-sm {
+        width: 28%;
+        margin: 0 auto;
+    }
+
+    .img-responsive29-sm {
+        width: 29%;
+        margin: 0 auto;
+    }
+
+    .img-responsive30-sm {
+        width: 30%;
+        margin: 0 auto;
+    }
+
+    .img-responsive31-sm {
+        width: 31%;
+        margin: 0 auto;
+    }
+
+    .img-responsive32-sm {
+        width: 32%;
+        margin: 0 auto;
+    }
+
+    .img-responsive33-sm {
+        width: 33%;
+        margin: 0 auto;
+    }
+
+    .img-responsive34-sm {
+        width: 34%;
+        margin: 0 auto;
+    }
+
+    .img-responsive35-sm {
+        width: 35%;
+        margin: 0 auto;
+    }
+
+    .img-responsive36-sm {
+        width: 36%;
+        margin: 0 auto;
+    }
+
+    .img-responsive37-sm {
+        width: 37%;
+        margin: 0 auto;
+    }
+
+    .img-responsive38-sm {
+        width: 38%;
+        margin: 0 auto;
+    }
+
+    .img-responsive39-sm {
+        width: 39%;
+        margin: 0 auto;
+    }
+
+    .img-responsive40-sm {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .img-responsive41-sm {
+        width: 41%;
+        margin: 0 auto;
+    }
+
+    .img-responsive42-sm {
+        width: 42%;
+        margin: 0 auto;
+    }
+
+    .img-responsive43-sm {
+        width: 43%;
+        margin: 0 auto;
+    }
+
+    .img-responsive44-sm {
+        width: 44%;
+        margin: 0 auto;
+    }
+
+    .img-responsive45-sm {
+        width: 45%;
+        margin: 0 auto;
+    }
+
+    .img-responsive46-sm {
+        width: 46%;
+        margin: 0 auto;
+    }
+
+    .img-responsive47-sm {
+        width: 47%;
+        margin: 0 auto;
+    }
+
+    .img-responsive48-sm {
+        width: 48%;
+        margin: 0 auto;
+    }
+
+    .img-responsive49-sm {
+        width: 49%;
+        margin: 0 auto;
+    }
+
+    .img-responsive50-sm {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .img-responsive51-sm {
+        width: 51%;
+        margin: 0 auto;
+    }
+
+    .img-responsive52-sm {
+        width: 52%;
+        margin: 0 auto;
+    }
+
+    .img-responsive53-sm {
+        width: 53%;
+        margin: 0 auto;
+    }
+
+    .img-responsive54-sm {
+        width: 54%;
+        margin: 0 auto;
+    }
+
+    .img-responsive55-sm {
+        width: 55%;
+        margin: 0 auto;
+    }
+
+    .img-responsive56-sm {
+        width: 56%;
+        margin: 0 auto;
+    }
+
+    .img-responsive57-sm {
+        width: 57%;
+        margin: 0 auto;
+    }
+
+    .img-responsive58-sm {
+        width: 58%;
+        margin: 0 auto;
+    }
+
+    .img-responsive59-sm {
+        width: 59%;
+        margin: 0 auto;
+    }
+
+    .img-responsive60-sm {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .img-responsive61-sm {
+        width: 61%;
+        margin: 0 auto;
+    }
+
+    .img-responsive62-sm {
+        width: 62%;
+        margin: 0 auto;
+    }
+
+    .img-responsive63-sm {
+        width: 63%;
+        margin: 0 auto;
+    }
+
+    .img-responsive64-sm {
+        width: 64%;
+        margin: 0 auto;
+    }
+
+    .img-responsive65-sm {
+        width: 65%;
+        margin: 0 auto;
+    }
+
+    .img-responsive66-sm {
+        width: 66%;
+        margin: 0 auto;
+    }
+
+    .img-responsive67-sm {
+        width: 67%;
+        margin: 0 auto;
+    }
+
+    .img-responsive68-sm {
+        width: 68%;
+        margin: 0 auto;
+    }
+
+    .img-responsive69-sm {
+        width: 69%;
+        margin: 0 auto;
+    }
+
+    .img-responsive70-sm {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .img-responsive71-sm {
+        width: 71%;
+        margin: 0 auto;
+    }
+
+    .img-responsive72-sm {
+        width: 72%;
+        margin: 0 auto;
+    }
+
+    .img-responsive73-sm {
+        width: 73%;
+        margin: 0 auto;
+    }
+
+    .img-responsive74-sm {
+        width: 74%;
+        margin: 0 auto;
+    }
+
+    .img-responsive75-sm {
+        width: 75%;
+        margin: 0 auto;
+    }
+
+    .img-responsive76-sm {
+        width: 76%;
+        margin: 0 auto;
+    }
+
+    .img-responsive77-sm {
+        width: 77%;
+        margin: 0 auto;
+    }
+
+    .img-responsive78-sm {
+        width: 78%;
+        margin: 0 auto;
+    }
+
+    .img-responsive79-sm {
+        width: 79%;
+        margin: 0 auto;
+    }
+
+    .img-responsive80-sm {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .img-responsive81-sm {
+        width: 81%;
+        margin: 0 auto;
+    }
+
+    .img-responsive82-sm {
+        width: 82%;
+        margin: 0 auto;
+    }
+
+    .img-responsive83-sm {
+        width: 83%;
+        margin: 0 auto;
+    }
+
+    .img-responsive84-sm {
+        width: 84%;
+        margin: 0 auto;
+    }
+
+    .img-responsive85-sm {
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    .img-responsive86-sm {
+        width: 86%;
+        margin: 0 auto;
+    }
+
+    .img-responsive87-sm {
+        width: 87%;
+        margin: 0 auto;
+    }
+
+    .img-responsive88-sm {
+        width: 88%;
+        margin: 0 auto;
+    }
+
+    .img-responsive89-sm {
+        width: 89%;
+        margin: 0 auto;
+    }
+
+    .img-responsive90-sm {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .img-responsive91-sm {
+        width: 91%;
+        margin: 0 auto;
+    }
+
+    .img-responsive92-sm {
+        width: 92%;
+        margin: 0 auto;
+    }
+
+    .img-responsive93-sm {
+        width: 93%;
+        margin: 0 auto;
+    }
+
+    .img-responsive94-sm {
+        width: 94%;
+        margin: 0 auto;
+    }
+
+    .img-responsive95-sm {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .img-responsive96-sm {
+        width: 96%;
+        margin: 0 auto;
+    }
+
+    .img-responsive97-sm {
+        width: 97%;
+        margin: 0 auto;
+    }
+
+    .img-responsive98-sm {
+        width: 98%;
+        margin: 0 auto;
+    }
+
+    .img-responsive99-sm {
+        width: 99%;
+        margin: 0 auto;
+    }
+
+    .img-responsive100-sm {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+/* Fin de Imágenes */
+
+
+.Col90wp2 {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    padding: 1% 1% 1% 1%;
+    font-size: 20px;
+    color: #000;
+}
+
+.Col90wp4 {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    padding: 2% 2% 2% 2%;
+}
+
+
+.Col98wp2 {
+    width: 98%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    padding: 1% 1% 0 1%;
+}
+
+.Col96wp4 {
+    width: 96%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    padding: 2% 2% 2% 2%;
+}
+
+
+.splitter100 {
+    height: 1px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.splitter100B {
+    height: 1px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+
+.ocultarMobil {
+    display: table;
+}
+
+@media (max-width: 768px) {
+    .ocultarMobil {
+        display: none;
+    }
+}

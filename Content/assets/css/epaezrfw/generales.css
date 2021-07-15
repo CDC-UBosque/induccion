@@ -1,0 +1,2037 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    font-size: 1em;
+    font-weight: 400;
+    background-color: rgba(230, 233, 235, 0.6);
+}
+.contenidoMobile {
+        display: none;
+    }
+.contenidoFull {
+    display: table;
+    min-height: 10px;
+    width: 100%;
+}
+a {
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    color: rgba(186,0,124,1);
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(0,155,219,1);
+}
+
+.riesgoRojo1, .riesgoNaranja2, .riesgoAzul3, .riesgoVerde4 {
+    font-size: 1.3em;
+    border-radius: 10px;
+    padding: 4% 2% 4% 2%;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.riesgoRojo1 {
+    border: solid 1px rgba(237, 27, 47, 1);
+    background-color: rgba(237, 27, 47, 0.6);
+}
+
+.riesgoNaranja2 {
+    border: solid 1px rgba(228, 113, 45, 1);
+    background-color: rgba(228, 113, 45, 0.6);
+}
+
+.riesgoAzul3 {
+    border: solid 1px rgba(0, 80, 178, 1);
+    background-color: rgba(0, 80, 178, 0.6);
+}
+
+.riesgoVerde4 {
+    border: solid 1px rgba(121, 162, 68, 1);
+    background-color: rgba(121, 162, 68, 0.6);
+}
+
+.numeracionGris {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.pasos_simples {
+    display: table;
+    margin: 0 auto;
+    min-height: 10px;
+    width: 100%;
+    border: solid 1px rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    padding: 5px;
+}
+    .pasos_simples article {
+        display: table;
+        float: left;
+        font-size: 0.9em;
+        color: rgba(0, 0, 0, 1);
+        padding-right: 3px;
+    }
+    .pasos_simples cite {
+        display: table;
+        float: left;
+        font-size: 0.8em;
+        font-style: normal;
+        color: rgba(0, 0, 0, 0.5);
+    }
+    .pasos_simples small {
+        display: table;
+        float: left;
+        font-size: 0.9em;
+        padding-left: 3px;
+    }
+
+.seguimientoBox {
+    width: 100%;
+    height: 200px;
+    display: block;
+    overflow: scroll;
+    margin: 0 auto;
+    border: solid 1px rgba(0, 0, 0, 0.2);
+}
+
+.boxSgm {
+    display: table;
+    padding: 0.5%;
+    border: solid 1px rgba(15, 134, 137, 1);
+    border-radius: 3px;
+    color: rgba(15, 134, 137, 1);
+}
+
+.estado_grande {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+    .estado_grande article i {
+        font-size: 5em;
+        display: block;
+        width: 100%;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.3);
+        padding-bottom: 10px;
+    }
+
+    .estado_grande article cite {
+        font-style: normal;
+        border: solid 1px rgba(15, 134, 137, 0.5);
+        border-radius: 3px;
+        padding: 3px;
+        color: rgba(15, 134, 137, 1);
+        font-size: 0.9em;
+        text-transform: uppercase;
+    }
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: rgba(186, 39, 119, 1);
+    border: solid 1px rgba(186, 39, 119, 1);
+    border-radius: 3px;
+    padding: 2%;
+}
+
+    .tooltip:hover {
+        position: relative;
+        display: inline-block;
+        font-size: 0.85em;
+        font-weight: bold;
+        color: rgba(255, 255, 255, 1);
+        background-color: rgba(186, 39, 119, 1);
+        border: solid 1px rgba(186, 39, 119, 1);
+        border-radius: 3px;
+        padding: 2%;
+    }
+
+    /* Tooltip text */
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 120px;
+        bottom: 120%;
+        left: 50%;
+        margin-left: -60px;
+        background-color: rgba(0, 0, 0, 0.9);
+        color: #fff;
+        text-align: center;
+        padding: 5px 5px;
+        border-radius: 6px;
+        /* Position the tooltip text - see examples below! */
+        position: absolute;
+        z-index: 1;
+    }
+
+    /* Show the tooltip text when you mouse over the tooltip container */
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
+
+
+embed {
+    width: 100%;
+    max-width: 100%;
+}
+.panelDerechaTodo {
+    width: 20%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.05);
+    float: left;
+    position: fixed;
+    top: 0;
+}
+.panelDerechaTodo_brd {
+    width: 100%;
+    height: 100vh;
+    border-right: solid 1px rgba(0, 0, 0, 0.15);
+    float: left;
+}
+.LinksTotales, .TopBox, .TopBox1, .TopBox2 {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+    .LinksTotales ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    .LinksTotales ul li {
+        display: block;
+        text-transform: uppercase;
+    }
+    .LinksTotales ul li a {
+        display: table;
+        width: 90%;
+        height: 40px;
+        color: rgba(0, 0, 0, 1);
+        padding-left: 10%;
+        line-height: 40px;
+        border-bottom: solid 1px rgba(0, 0, 0, 0);
+    }
+        .LinksTotales ul li a i {
+            color: rgba(0, 0, 0, 0.4);
+            padding-right: 5%;
+        }
+
+    .LinksTotales ul li a:hover {
+        display: table;
+        width: 90%;
+        height: 40px;
+        color: rgba(0, 0, 0, 1);
+        background-color: rgba(255, 255, 255, 1);
+        color: rgba(0, 155, 219, 1);
+        border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+    }
+        .LinksTotales ul li a:hover i {
+            color: rgba(0, 0, 0, 0.4);
+            padding-right: 5%;
+            color: rgba(186, 0, 124, 1);
+        }
+
+.flotar_Derecha {
+    float: right;
+}
+
+.noteFoot{
+    position: fixed;
+    bottom: 0;
+    width: 20%;
+    min-height: 10px;
+    font-size: 0.7em;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+.noteFoot a {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.TopBox {
+    border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+}
+.TopBox1, .TopBox2 {
+    text-align: left;
+    font-size: 0.8em;
+    padding-bottom: 10px;
+}
+    .TopBox1 a {
+        color: rgba(0, 155, 219, 1);
+    }
+    .TopBox1 a i {
+        color: rgba(67, 109, 174, 1);
+    }
+    .TopBox1 a:hover {
+        color: rgba(89, 33, 128, 1);
+    }
+    .TopBox1 a:hover i {
+        color: rgba(89, 33, 128, 1);
+    }
+
+.TopBox2_Inbox, .TopBox2_Notificaciones, .TopBox2_Logout {
+    float: right;
+    width: 20%;
+}
+.TopBox2_Inbox a {
+    color: rgba(89, 33, 128, 1);
+    display: table;
+}
+.TopBox2_Inbox a:hover {
+    color: rgba(89, 33, 128, 0.51);
+    display: table;
+}
+.TopBox2_Notificaciones a {
+    color: rgba(0, 155, 219, 1);
+    display: table;
+}
+.TopBox2_Notificaciones a:hover {
+    color: rgba(0, 155, 219, 0.51);
+    display: table;
+}
+.TopBox2_Logout a {
+    color: rgba(208, 116, 0, 1);
+    display: table;
+}
+.TopBox2_Logout a:hover {
+    color: rgba(208, 116, 0, 0.51);
+    display: table;
+}
+
+
+.riesgoBox1 {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    border: solid 1px rgba(81, 143, 0, 1);
+    border-radius: 6px;
+    padding: 5%;
+}
+
+    .riesgoBox1 article {
+        font-size: 5em;
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 30px;
+        font-weight: 700;
+        color: rgba(81, 143, 0, 1);
+    }
+.riesgoBox1Txt {
+    display: table;
+    border: solid 1px rgba(81, 143, 0, 1);
+    margin: 0 auto;
+    padding: 2%;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 1);
+}
+    .riesgoBox1Txt i {
+        color: rgba(81, 143, 0, 1);
+    }
+
+
+
+
+.riesgoBox2 {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    border: solid 1px rgba(255, 123, 0, 1);
+    border-radius: 6px;
+    padding: 5%;
+}
+
+    .riesgoBox2 article {
+        font-size: 5em;
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 30px;
+        font-weight: 700;
+        color: rgba(255, 123, 0, 1);
+    }
+.riesgoBox2Txt {
+    display: table;
+    border: solid 1px rgba(255, 123, 0, 1);
+    margin: 0 auto;
+    padding: 2%;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 1);
+}
+    .riesgoBox2Txt i {
+        color: rgba(255, 123, 0, 1);
+    }
+
+
+
+
+.riesgoBox3 {
+    width: 90%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    border: solid 1px rgba(207,0,0, 1);
+    border-radius: 6px;
+    padding: 5%;
+}
+
+    .riesgoBox3 article {
+        font-size: 5em;
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 30px;
+        font-weight: 700;
+        color: rgba(207,0,0, 1);
+    }
+.riesgoBox3Txt {
+    display: table;
+    border: solid 1px rgba(207,0,0, 1);
+    margin: 0 auto;
+    padding: 2%;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 1);
+}
+    .riesgoBox3Txt i {
+        color: rgba(207,0,0, 1);
+    }
+
+
+
+
+
+
+.tituloSeccion, .contenidosTotales {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+
+    .tituloSeccion h1 {
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 700;
+        color: rgba(0,0,0,1);
+        font-size: 2em;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .tituloSeccion h2 {
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 400;
+        color: rgba(0,0,0,1);
+        font-size: 1.5em;
+        margin-bottom: 3%;
+        margin-top: 0px;
+    }
+
+
+    .contenidosTotales h3 {
+        font-size: 1.5em;
+        font-weight: 300;
+        color: rgba(67, 109, 174, 1);
+        margin-top: 0px;
+    }
+    .contenidosTotales h3 i {
+        color: rgba(0,0,0,0.4);
+    }
+    .contenidosTotales h4 {
+        font-size: 1.5em;
+        font-weight: 300;
+        color: rgba(89, 33, 128, 1);
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .contenidosTotales h5 {
+        font-size: 1.2em;
+        font-weight: 300;
+        color: rgba(138, 178, 55, 1);
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .contenidosTotales h6 {
+        font-size: 1em;
+        font-weight: 300;
+        color: rgba(181, 4, 17, 1);
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .contenidosTotales cite {
+        font-style: normal;
+        font-size: 0.8em;
+        color: rgba(0,0,0,0.5);
+    }
+    .contenidosTotales hr {
+        border-top: solid 1px rgba(0, 0, 0, 0.2);
+        border-bottom: solid 0px rgba(0, 0, 0, 0.3);
+    }
+    .contenidosTotales p {
+        color: Rgba(0, 0, 0, 0.7);
+        font-size: 0.9em;
+    }
+.cajaMorada1, .cajaAzul1, .cajaAzul2, .cajaVerde1, .cajaVerde2, .cajaAmarilla1, .cajaNaranja1, .cajaNaranja2, .cajaRoja1 {
+    width: 90%;
+    min-height: 200px;
+    display: table;
+    color :rgba(255, 255, 255, 1);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+    .cajaMorada1 h3, .cajaAzul1 h3, .cajaAzul2 h3, .cajaVerde1 h3, .cajaVerde2 h3, .cajaAmarilla1 h3, .cajaNaranja1 h3, .cajaNaranja2 h3, .cajaRoja1 h3 {
+        font-weight: 100;
+        font-size: 1.4em;
+        margin-top: 0px;
+        color: rgba(255,255,255,1);
+    }
+
+    .cajaMorada1 h3 i, .cajaAzul1 h3 i, .cajaAzul2 h3 i, .cajaVerde1 h3 i, .cajaVerde2 h3 i, .cajaAmarilla1 h3 i, .cajaNaranja1 h3 i, .cajaNaranja2 h3 i, .cajaRoja1 h3 i {
+        color: rgba(255,255,255,0.5);
+        padding-right: 3%;
+    }
+
+    .cajaMorada1 a, .cajaAzul1 a, .cajaAzul2 a, .cajaVerde1 a, .cajaVerde2 a, .cajaAmarilla1 a, .cajaNaranja1 a, .cajaNaranja2 a, .cajaRoja1 a {
+        color: rgba(255,255,255,1);
+        display: table;
+        float: right;
+        padding: 3%;
+        border: solid 1px rgba(255,255,255,1);
+    }
+
+    .cajaMorada1 a:hover, .cajaAzul1 a:hover, .cajaAzul2 a:hover, .cajaVerde1 a:hover, .cajaVerde2 a:hover, .cajaAmarilla1 a:hover, .cajaNaranja1 a:hover, .cajaNaranja2 a:hover, .cajaRoja1 a:hover {
+        background-color: rgba(255,255,255,1);
+        border: solid 1px rgba(255,255,255,1);
+        color: rgba(89, 33, 128, 1);
+    }
+    .cajaMorada1 b, .cajaAzul1 b, .cajaAzul2 b, .cajaVerde1 b, .cajaVerde2 b, .cajaAmarilla1 b, .cajaNaranja1 b, .cajaNaranja2 b, .cajaRoja1 b {
+        font-weight: 400;
+        color: rgba(255,255,255,0.7);
+    }
+
+.cajaMorada1 {
+    background-color: rgba(89, 33, 128, 1);
+}
+
+    .cajaMorada1 a:hover {
+        color: rgba(89, 33, 128, 1);
+    }
+
+.cajaAzul1 {
+    background-color: rgba(67, 109, 174, 1);
+}
+
+    .cajaAzul1 a:hover {
+        color: rgba(67, 109, 174, 1);
+    }
+
+.cajaAzul2 {
+    background-color: rgba(0, 155, 219, 1);
+}
+
+    .cajaAzul2 a:hover {
+        color: rgba(0, 155, 219, 1);
+    }
+
+.cajaVerde1 {
+    background-color: rgba(138, 178, 55, 1);
+}
+
+    .cajaVerde1 a:hover {
+        color: rgba(138, 178, 55, 1);
+    }
+
+.cajaVerde2 {
+    background-color: rgba(210, 214, 34, 1);
+}
+
+    .cajaVerde2 a:hover {
+        color: rgba(210, 214, 34, 1);
+    }
+
+.cajaAmarilla1 {
+    background-color: rgba(254, 238, 0, 1);
+    color: rgba(208, 116, 0, 1);
+}
+
+    .cajaAmarilla1 a:hover {
+        color: rgba(254, 238, 0, 1);
+    }
+    .cajaAmarilla1 b {
+        color: rgba(208, 116, 0, 1);
+    }
+    .cajaAmarilla1 a {
+        color: rgba(208, 116, 0, 1);
+        border: solid 1px rgba(208, 116, 0, 1);
+    }
+    .cajaAmarilla1 a:hover {
+        color: rgba(208, 116, 0, 1);
+    }
+.cajaNaranja1 {
+    background-color: rgba(232, 184, 0, 1);
+}
+
+    .cajaNaranja1 a:hover {
+        color: rgba(232, 184, 0, 1);
+    }
+
+.cajaNaranja2 {
+    background-color: rgba(208, 116, 0, 1);
+}
+
+    .cajaNaranja2 a:hover {
+        color: rgba(208, 116, 0, 1);
+    }
+
+.cajaRoja1 {
+    background-color: rgba(191, 4, 17, 1);
+}
+
+    .cajaRoja1 a:hover {
+        color: rgba(191, 4, 17, 1);
+    }
+
+
+.artFV {
+    font-weight: 100;
+    font-size: 1.5em;
+}
+.artFV_Sub {
+    font-weight: 500;
+    color: rgba(0,0,0,0.5);
+}
+
+.inputBig {
+    width: 95%;
+    height: 60px;
+    border: solid 2px rgba(121, 162, 68, 1);
+    border-radius: 5px;
+    color: rgba(191, 4, 17, 1);
+    padding-left: 2%;
+    padding-right: 3%;
+    font-size: 50px;
+}
+
+    .inputBig:focus {
+        background-color: rgba(121, 162, 68, 0.2);
+        border: solid 2px rgba(121, 162, 68, 0.5);
+    }
+
+.inputBox {
+    width: 50px;
+    height: 50px;
+    border: solid 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 3em;
+}
+
+    .inputBox:focus {
+        width: 50px;
+        height: 50px;
+        border: solid 5px rgba(121, 162, 68, 1);
+        border-radius: 10px;
+        text-align: center;
+        font-size: 3em;
+        color: rgba(121, 162, 68, 1);
+    }
+
+.inputRed{
+    width: 95%;
+    height: 30px;
+    border: solid 1px rgba(0,0,0,0.15);
+    border-radius: 5px;
+    color: rgba(191, 4, 17, 1);
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+    .inputRed:focus {
+        background-color: rgba(138, 178, 55, 0.2);
+    }
+
+.inputRedML{
+    width: 95%;
+    min-height: 30px;
+    /*display: table;*/
+    border: solid 1px rgba(0,0,0,0.15);
+    border-radius: 5px;
+    color: rgba(191, 4, 17, 1);
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+    .inputRedML:focus {
+        background-color: rgba(138, 178, 55, 0.2);
+    }
+
+.inputRed_Water{
+    width: 95%;
+    height: 30px;
+    border: solid 1px rgba(0,0,0,0.15);
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.4);
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+.inputRedDdl{
+    width: 100%;
+    height: 30px;
+    border: solid 1px rgba(0,0,0,0.15);
+    border-radius: 5px;
+    color: rgba(191, 4, 17, 1);
+}
+
+    .inputRedDdl:focus {
+        background-color: rgba(138, 178, 55, 0.2);
+    }
+
+
+.cajaVacia {
+    width: 100%;
+    min-height: 185px;
+    display: table;
+    margin: 0 auto;
+}
+    .cajaVacia p {
+        font-size: 2em;
+        display: block;
+        text-align: center;
+    }
+    .cajaVacia i {
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+.tooltipHelp {
+    position: relative;
+    display: inline-block;
+    padding-left: 5px;
+    font-size: 0.9em;
+}
+.tooltipHelp a {
+    font-size: 0.8em;
+}
+.tooltipHelp .tooltiptextHelp {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    border-radius: 6px;
+    padding: 50%;
+    font-size: 1.1em;
+    
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltipHelp:hover .tooltiptextHelp {
+    visibility: visible;
+}
+
+.tooltip_btm {
+    position: relative;
+    display: inline-block;
+    padding-left: 5px;
+    
+    /*border-bottom: 1px dotted black;*/
+}
+
+.tooltip_btm .tooltiptext_btm {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    border-radius: 6px;
+    padding: 10%;
+    font-size: 0.95em;
+    
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip_btm:hover .tooltiptext_btm {
+    visibility: visible;
+    margin-top: 20%;
+}
+
+
+.gridHeadBtm {
+    font-weight: normal;
+    color: rgba(186, 39, 119, 1);
+    font-size: 1.1em;
+    border-bottom: solid 1px rgba(74, 35, 102, 0.5);
+}
+
+    .gridHeadBtm a {
+        font-weight: normal;
+        color: rgba(186, 39, 119, 1);
+        font-size: 1.1em;
+        text-decoration: none;
+    }
+        .gridHeadBtm a:link {
+            font-weight: normal;
+            color: rgba(186, 39, 119, 1);
+            font-size: 1.1em;
+            text-decoration: none;
+        }
+        .gridHeadBtm a:hover {
+            font-weight: normal;
+            color: rgba(121, 162, 68, 1);
+            font-size: 1.1em;
+            text-decoration: none;
+        }
+.gridPageTop {
+    font-weight: normal;
+    color: #000;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    border-top: solid 1px #a5a5a5;
+}
+    .gridPageTop a{
+        font-weight: normal;
+        color: #000;
+        font-size: 20px;
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+    }
+    .gridPageTop a:link{
+        font-weight: normal;
+        color: #000;
+        font-size: 20px;
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+    }
+    .gridPageTop a:hover{
+        font-weight: normal;
+        color: #1C75BC;
+        font-size: 20px;
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+    }
+
+
+.btnGrande {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(121, 162, 68, 1);
+    border: solid 1px rgba(0, 88, 2, 1);
+    border-radius: 5px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.btnLogin{
+    width: 100%;
+    height: 40px;
+    background-color: rgba(121, 162, 68, 1);
+    border: solid 1px rgba(121, 162, 68, 1);
+    font-size: 1em;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.btnAzul, .btnAmarillo, .btnVerde, .btnMorado, .btnNaranja, .btnFucsia, .btnGris, .btnRojo, .btnOff, .btnBlanco {
+    display: table;
+    margin: 0 auto;
+    width: 100%;
+    min-height: 10px;
+}
+
+
+    .btnAzul a, .btnAmarillo a, .btnVerde a, .btnMorado a, .btnNaranja a, .btnFucsia a, .btnGris a, .btnRojo a, .btnOff a, .btnBlanco a {
+        display: table;
+        padding: 3%;
+        font-size: 0.9em;
+        text-align: center;
+        border-radius: 3px;
+    }
+
+    .btnAzul a:hover, .btnAmarillo a:hover, .btnVerde a:hover, .btnMorado a:hover, .btnNaranja a:hover, .btnFucsia a:hover, .btnGris a:hover, .btnRojo a:hover, .btnOff a:hover, .btnBlanco a:hover {
+        display: table;
+        padding: 3%;
+        color: rgba(255, 255, 255, 1);
+        font-size: 0.9em;
+        text-align: center;
+        border-radius: 3px;
+        text-decoration: none;
+    }
+    .btnAzul a:hover i, .btnAmarillo a:hover i, .btnVerde a:hover i, .btnMorado a:hover i, .btnNaranja a:hover i, .btnFucsia a:hover i, .btnGris a:hover i, .btnRojo a:hover i, .btnOff a:hover i, .btnBlanco a:hover i {
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+
+
+        .btnAzul a i {
+            color: rgba(6, 85, 89, 1);
+        }
+
+        .btnAmarillo a i {
+            color: rgba(164, 137, 48, 1);
+        }
+
+        .btnVerde a i {
+            color: rgba(70, 106, 50, 1);
+        }
+
+        .btnMorado a i {
+            color: rgba(47, 12, 76, 1);
+        }
+
+        .btnNaranja a i {
+            color: rgba(148, 66, 32, 1);
+        }
+
+        .btnFucsia a i {
+            color: rgba(121, 22, 73, 1);
+        }
+
+        .btnGris a i {
+            color: rgba(24, 39, 53, 1);
+        }
+
+        .btnRojo a i {
+            color: rgba(148, 36, 39, 1);
+        }
+        .btnOff a i {
+            color: rgba(0, 0, 0, 0.2);
+        }
+        .btnBlanco a i {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+    .btnAzul a {
+        border: solid 1px rgba(15, 134, 137, 1);
+        color: rgba(15, 134, 137, 1);
+        background-color: rgba(15, 134, 137, 0.1);
+    }
+
+    .btnAmarillo a {
+        border: solid 1px rgba(255, 209, 4, 1);
+        color: rgba(255, 209, 4, 1);
+        background-color: rgba(255, 209, 4, 0.1);
+    }
+
+    .btnVerde a {
+        border: solid 1px rgba(121, 162, 68, 1);
+        color: rgba(121, 162, 68, 1);
+        background-color: rgba(121, 162, 68, 0.1);
+    }
+
+    .btnMorado a {
+        border: solid 1px rgba(74, 35, 102, 1);
+        color: rgba(74, 35, 102, 1);
+        background-color: rgba(74, 35, 102, 0.1);
+    }
+
+    .btnNaranja a {
+        border: solid 1px rgba(228, 113, 45, 1);
+        color: rgba(228, 113, 45, 1);
+        background-color: rgba(228, 113, 45, 0.1);
+    }
+
+    .btnFucsia a {
+        border: solid 1px rgba(186, 39, 119, 1);
+        color: rgba(186, 39, 119, 1);
+        background-color: rgba(186, 39, 119, 0.1);
+    }
+
+    .btnGris a {
+        border: solid 1px rgba(71, 78, 83, 1);
+        color: rgba(71, 78, 83, 1);
+        background-color: rgba(71, 78, 83, 0.1);
+    }
+
+    .btnRojo a {
+        border: solid 1px rgba(237, 27, 47, 1);
+        color: rgba(237, 27, 47, 1);
+        background-color: rgba(237, 27, 47, 0.1);
+    }
+    .btnOff a {
+        border: solid 1px rgba(0, 0, 0, 0.3);
+        color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+    .btnBlanco a {
+        border: solid 1px rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+
+
+
+    .btnAzul a:link {
+        border: solid 1px rgba(15, 134, 137, 1);
+        color: rgba(15, 134, 137, 1);
+        background-color: rgba(15, 134, 137, 0.1);
+    }
+
+    .btnAmarillo a:link {
+        border: solid 1px rgba(255, 209, 4, 1);
+        color: rgba(255, 209, 4, 1);
+        background-color: rgba(255, 209, 4, 0.1);
+    }
+
+    .btnVerde a:link {
+        border: solid 1px rgba(121, 162, 68, 1);
+        color: rgba(121, 162, 68, 1);
+        background-color: rgba(121, 162, 68, 0.1);
+    }
+
+    .btnMorado a:link {
+        border: solid 1px rgba(74, 35, 102, 1);
+        color: rgba(74, 35, 102, 1);
+        background-color: rgba(74, 35, 102, 0.1);
+    }
+
+    .btnNaranja a:link {
+        border: solid 1px rgba(228, 113, 45, 1);
+        color: rgba(228, 113, 45, 1);
+        background-color: rgba(228, 113, 45, 0.1);
+    }
+
+    .btnFucsia a:link {
+        border: solid 1px rgba(186, 39, 119, 1);
+        color: rgba(186, 39, 119, 1);
+        background-color: rgba(186, 39, 119, 0.1);
+    }
+
+    .btnGris a:link {
+        border: solid 1px rgba(71, 78, 83, 1);
+        color: rgba(71, 78, 83, 1);
+        background-color: rgba(71, 78, 83, 0.1);
+    }
+
+    .btnRojo a:link {
+        border: solid 1px rgba(237, 27, 47, 1);
+        color: rgba(237, 27, 47, 1);
+        background-color: rgba(237, 27, 47, 0.1);
+    }
+    .btnOff a:link {
+        border: solid 1px rgba(0, 0, 0, 0.3);
+        color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+    .btnBlanco a:link {
+        border: solid 1px rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .btnAzul a:hover {
+        border: solid 1px rgba(6, 85, 89, 1);
+        background-color: rgba(6, 85, 89, 1);
+    }
+
+    .btnAmarillo a:hover {
+        border: solid 1px rgba(164, 137, 48, 1);
+        background-color: rgba(164, 137, 48, 1);
+    }
+
+    .btnVerde a:hover {
+        border: solid 1px rgba(70, 106, 50, 1);
+        background-color: rgba(70, 106, 50, 1);
+    }
+
+    .btnMorado a:hover {
+        border: solid 1px rgba(47, 12, 76, 1);
+        background-color: rgba(47, 12, 76, 1);
+    }
+
+    .btnNaranja a:hover {
+        border: solid 1px rgba(148, 66, 32, 1);
+        background-color: rgba(148, 66, 32, 1);
+    }
+
+    .btnFucsia a:hover {
+        border: solid 1px rgba(121, 22, 73, 1);
+        background-color: rgba(121, 22, 73, 1);
+    }
+
+    .btnGris a:hover {
+        border: solid 1px rgba(24, 39, 53, 1);
+        background-color: rgba(24, 39, 53, 1);
+    }
+
+    .btnRojo a:hover {
+        border: solid 1px rgba(148, 36, 39, 1);
+        background-color: rgba(148, 36, 39, 1);
+    }
+
+    .btnBlanco a:hover {
+        border: solid 1px rgba(0, 0, 0, 1);
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .btnOff a:hover {
+        border: solid 1px rgba(0, 0, 0, 0.3);
+        color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+.hrMid {
+    border-top: solid 1px rgba(0,0,0,0.1);
+    border-bottom: solid 0px rgba(0,0,0,0.2);
+    width: 70%;
+    margin: 0 auto;
+}
+
+.spanFull {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.hrMid {
+    border-top: solid 1px rgba(0,0,0,0.1);
+    border-bottom: solid 0px rgba(0,0,0,0.2);
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+.globoNumeroVerde1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgba(121, 162, 68, 1);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    line-height: 50px;
+    font-size: 2em;
+}
+
+
+.globoNotf1 {
+    background-color: rgba(237, 27, 47, 1);
+    color: rgba(255, 255, 255, 1);
+    font-size: 0.7em;
+    width: 15px;
+    height: 15px;
+    display: table;
+    border-radius: 15px;
+    padding: 2px;
+}
+
+.globoAzul1, .globoAmarillo1, .globoVerde1, .globoMorado1, .globoNaranja1, .globoFucsia1, .globoGris1, .globoRojo1, .globoNegro1 {
+    border-radius: 3px;
+    font-size: 0.8em;
+    display: table;
+    float: left;
+    padding: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}   
+
+.globoAzul1 {
+    color: rgba(15, 134, 137, 1);
+    border: solid 1px rgba(15, 134, 137, 1);
+}
+.globoAmarillo1 {
+    color: rgba(255, 209, 4, 1);
+    border: solid 1px rgba(255, 209, 4, 1);
+}
+.globoVerde1 {
+    color: rgba(121, 162, 68, 1);
+    border: solid 1px rgba(121, 162, 68, 1);
+}
+.globoMorado1 {
+    color: rgba(74, 35, 102, 1);
+    border: solid 1px rgba(74, 35, 102, 1);
+}
+.globoNaranja1 {
+    color: rgba(228, 113, 45, 1);
+    border: solid 1px rgba(228, 113, 45, 1);
+}
+.globoFucsia1 {
+    color: rgba(186, 39, 119, 1);
+    border: solid 1px rgba(186, 39, 119, 1);
+}
+.globoGris1 {
+    color: rgba(71, 78, 83, 1);
+    border: solid 1px rgba(71, 78, 83, 1);
+}
+.globoRojo1 {
+    color: rgba(164, 0, 37, 1);
+    border: solid 1px rgba(164, 0, 37, 1);
+}
+.globoNegro1 {
+    color: rgba(0, 0, 0, 1);
+    border: solid 1px rgba(0, 0, 0, 1);
+}
+
+
+
+.globoAzul2, .globoAmarillo2, .globoVerde2, .globoMorado2, .globoNaranja2, .globoFucsia2, .globoGris2, .globoRojo2, .globoNegro2 {
+    border-radius: 6px;
+    font-size: 1.2em;
+    display: table;
+    float: left;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.globoAzul2 {
+    color: rgba(15, 134, 137, 1);
+    border: solid 1px rgba(15, 134, 137, 1);
+}
+
+
+.globoAmarillo2 {
+    color: rgba(255, 209, 4, 1);
+    border: solid 1px rgba(255, 209, 4, 1);
+}
+
+.globoVerde2 {
+    color: rgba(121, 162, 68, 1);
+    border: solid 1px rgba(121, 162, 68, 1);
+}
+
+.globoMorado2 {
+    color: rgba(74, 35, 102, 1);
+    border: solid 1px rgba(74, 35, 102, 1);
+}
+
+.globoNaranja2 {
+    color: rgba(228, 113, 45, 1);
+    border: solid 1px rgba(228, 113, 45, 1);
+}
+
+.globoFucsia2 {
+    color: rgba(186, 39, 119, 1);
+    border: solid 1px rgba(186, 39, 119, 1);
+}
+
+.globoGris2 {
+    color: rgba(71, 78, 83, 1);
+    border: solid 1px rgba(71, 78, 83, 1);
+}
+
+.globoRojo2 {
+    color: rgba(164, 0, 37, 1);
+    border: solid 1px rgba(164, 0, 37, 1);
+}
+
+.globoNegro2 {
+    color: rgba(0, 0, 0, 1);
+    border: solid 1px rgba(0, 0, 0, 1);
+}
+
+
+
+
+
+.textoAzulBg {
+    color: rgba(15, 134, 137, 1);
+    font-size: 1.5em;
+}
+
+.textoAmarilloBg {
+    color: rgba(255, 209, 4, 1);
+    font-size: 1.5em;
+}
+
+.textoVerdeBg {
+    color: rgba(121, 162, 68, 1);
+    font-size: 1.5em;
+}
+
+.textoMoradoBg {
+    color: rgba(74, 35, 102, 1);
+    font-size: 1.5em;
+}
+
+.textoNaranjaBg {
+    color: rgba(228, 113, 45, 1);
+    font-size: 1.5em;
+}
+
+.textoFucsiaBg {
+    color: rgba(186, 39, 119, 1);
+    font-size: 1.5em;
+}
+
+.textoGrisBg {
+    color: rgba(71, 78, 83, 1);
+    font-size: 1.5em;
+}
+
+.textoRojoBg {
+    color: rgba(237, 27, 47, 1);
+    font-size: 1.5em;
+}
+
+.textoAzul2Bg {
+    color: rgba(0, 132, 232, 1);
+    font-size: 1.5em;
+}
+
+.textoNegroBg {
+    color: rgba(0, 0, 0, 1);
+    font-size: 1.5em;
+}
+
+.textoAzul {
+    color: rgba(15, 134, 137, 1);
+}
+
+.textoAmarillo {
+    color: rgba(255, 209, 4, 1);
+}
+
+.textoVerde {
+    color: rgba(121, 162, 68, 1);
+}
+
+.textoMorado {
+    color: rgba(74, 35, 102, 1);
+}
+
+.textoNaranja {
+    color: rgba(228, 113, 45, 1);
+}
+
+.textoFucsia {
+    color: rgba(186, 39, 119, 1);
+}
+
+.textoGris {
+    color: rgba(71, 78, 83, 1);
+}
+
+.textoRojo {
+    color: rgba(237, 27, 47, 1);
+}
+
+.textoAzul2 {
+    color: rgba(0, 132, 232, 1);
+}
+
+.textoNegro {
+    color: rgba(0, 0, 0, 1);
+}
+
+.textoAzulBold {
+    color: rgba(15, 134, 137, 1);
+    font-weight: bold;
+}
+
+.textoAmarilloBold {
+    color: rgba(255, 209, 4, 1);
+    font-weight: bold;
+}
+
+.textoVerdeBold {
+    color: rgba(121, 162, 68, 1);
+    font-weight: bold;
+}
+
+.textoMoradoBold {
+    color: rgba(74, 35, 102, 1);
+    font-weight: bold;
+}
+
+.textoNaranjaBold {
+    color: rgba(228, 113, 45, 1);
+    font-weight: bold;
+}
+
+.textoFucsiaBold {
+    color: rgba(186, 39, 119, 1);
+    font-weight: bold;
+}
+
+.textoGrisBold {
+    color: rgba(71, 78, 83, 1);
+    font-weight: bold;
+}
+
+.textoRojoBold {
+    color: rgba(237, 27, 47, 1);
+    font-weight: bold;
+}
+
+.textoAzul2Bold {
+    color: rgba(0, 132, 232, 1);
+    font-weight: bold;
+}
+
+.textoNegroBold {
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+}
+
+.textoAzulBoldBg {
+    color: rgba(15, 134, 137, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoAmarilloBoldBg {
+    color: rgba(255, 209, 4, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoVerdeBoldBg {
+    color: rgba(121, 162, 68, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoMoradoBoldBg {
+    color: rgba(74, 35, 102, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoNaranjaBoldBg {
+    color: rgba(228, 113, 45, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoFucsiaBoldBg {
+    color: rgba(186, 39, 119, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoGrisBoldBg {
+    color: rgba(71, 78, 83, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoRojoBoldBg {
+    color: rgba(237, 27, 47, 1);
+    font-weight: Bold;
+    font-size: 1.3em;
+}
+
+.textoNegroBoldBg {
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.textoAzul2BoldBg {
+    color: rgba(0, 132, 232, 1);
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+
+.textoAzulSm {
+    color: rgba(15, 134, 137, 1);
+    font-size: 0.85em;
+}
+
+.textoAmarilloSm {
+    color: rgba(255, 209, 4, 1);
+    font-size: 0.85em;
+}
+
+.textoVerdeSm {
+    color: rgba(121, 162, 68, 1);
+    font-size: 0.85em;
+}
+
+.textoMoradoSm {
+    color: rgba(74, 35, 102, 1);
+    font-size: 0.85em;
+}
+
+.textoNaranjaSm {
+    color: rgba(228, 113, 45, 1);
+    font-size: 0.85em;
+}
+
+.textoFucsiaSm {
+    color: rgba(186, 39, 119, 1);
+    font-size: 0.85em;
+}
+
+.textoGrisSm {
+    color: rgba(71, 78, 83, 1);
+    font-size: 0.85em;
+}
+
+.textoRojoSm {
+    color: rgba(237, 27, 47, 1);
+    font-size: 0.85em;
+}
+
+.textoAzul2Sm {
+    color: rgba(0, 132, 232, 1);
+    font-size: 0.85em;
+}
+
+.textoNegroSm {
+    color: rgba(0, 0, 0, 1);
+    font-size: 0.85em;
+}
+
+
+.textoAzulBoldSm {
+    color: rgba(15, 134, 137, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoAmarilloBoldSm {
+    color: rgba(255, 209, 4, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoVerdeBoldSm {
+    color: rgba(121, 162, 68, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoMoradoBoldSm {
+    color: rgba(74, 35, 102, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoNaranjaBoldSm {
+    color: rgba(228, 113, 45, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoFucsiaBoldSm {
+    color: rgba(186, 39, 119, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoGrisBoldSm {
+    color: rgba(71, 78, 83, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoAzul2BoldSm {
+    color: rgba(0, 132, 232, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoNegroBoldSm {
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+.textoAzulXSm {
+    color: rgba(15, 134, 137, 1);
+    font-size: 0.65em;
+}
+
+.textoAmarilloXSm {
+    color: rgba(255, 209, 4, 1);
+    font-size: 0.65em;
+}
+
+.textoVerdeXSm {
+    color: rgba(121, 162, 68, 1);
+    font-size: 0.65em;
+}
+
+.textoMoradoXSm {
+    color: rgba(74, 35, 102, 1);
+    font-size: 0.65em;
+}
+
+.textoNaranjaXSm {
+    color: rgba(228, 113, 45, 1);
+    font-size: 0.65em;
+}
+
+.textoFucsiaXSm {
+    color: rgba(186, 39, 119, 1);
+    font-size: 0.65em;
+}
+
+.textoGrisXSm {
+    color: rgba(71, 78, 83, 1);
+    font-size: 0.65em;
+}
+
+.textoRojoXSm {
+    color: rgba(237, 27, 47, 1);
+    font-size: 0.65em;
+}
+
+.textoAzul2XSm {
+    color: rgba(0, 132, 232, 1);
+    font-size: 0.65em;
+}
+
+.textoNegroXSm {
+    color: rgba(0, 0, 0, 1);
+    font-size: 0.65em;
+}
+
+
+.textoDerecha {
+    text-align: right;
+}
+
+.textoCentro {
+    text-align: center;
+}
+
+
+.cajaDocumentos, .documentosHolder {
+    display: table;
+    margin: 0 auto;
+    min-height: 10px;
+    width: 100%;
+}
+    .cajaDocumentos a {
+        display: table;
+        width: 96%;
+        min-height: 10px;
+        display: table;
+        background-color: rgba(0, 0, 0, 0.07);
+        border: solid 1px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        padding: 2%;
+    }
+    .cajaDocumentos a i {
+        display: block;
+        width: 100%;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.2);
+        font-size: 3.5em;
+        padding-bottom: 5%;
+    }
+    .cajaDocumentos a article {
+        color: rgba(128, 20, 84, 1);
+        font-size: 1.5em;
+        font-weight: 400;
+    }
+    .cajaDocumentos a cite {
+        font-size: 0.8em;
+    }
+    .cajaDocumentos a p {
+        font-size: 0.8em;
+        color: rgba(29, 113, 184, 1);
+    }
+    .cajaDocumentos a p b {
+        color: rgba(128, 20, 84, 1);
+        font-weight: 700;
+    }
+
+    .cajaDocumentos a:hover {
+        display: table;
+        width: 96%;
+        min-height: 10px;
+        display: table;
+        background-color: rgba(6, 124, 77, 1);
+        border: solid 1px rgba(6, 124, 77, 1);
+        border-radius: 5px;
+        padding: 2%;
+    }
+    .cajaDocumentos a:hover i {
+        display: block;
+        width: 100%;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.5);
+        font-size: 3.5em;
+        padding-bottom: 5%;
+    }
+    .cajaDocumentos a:hover article {
+        color: rgba(255, 255, 255, 1);
+        font-size: 1.5em;
+        font-weight: 400;
+    }
+    .cajaDocumentos a:hover cite {
+        font-size: 0.8em;
+        color: rgba(255, 255, 255, 1);
+    }
+    .cajaDocumentos a:hover p {
+        font-size: 0.8em;
+        color: rgba(255, 255, 255, 1);
+    }
+    .cajaDocumentos a:hover p b {
+        color: rgba(255, 255, 255, 1);
+        font-weight: 700;
+    }
+
+
+.documentosHolder {
+    font-size: 0.9em;
+}
+    .documentosHolder h3 {
+        font-size: 1.4em;
+        font-weight: 400;
+        margin-bottom: 0px;
+    }
+    .documentosHolder p {
+        color: rgba(0, 0, 0, 0.7);
+        font-size: 0.9em;
+    }
+    .documentosHolder article {
+        font-size: 5em;
+        color: rgba(0, 0, 0, 0.2);
+    }
+    .documentosHolder a {
+        font-size: 5em;
+        color: rgba(128, 20, 84, 1);
+    }
+    .documentosHolder a:hover {
+        font-size: 5em;
+        color: rgba(0, 141, 54, 1);
+    }
+
+
+.OpcionesNav {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+    font-size: 1em;
+}
+    
+    .OpcionesNav a i {
+        display: block;
+        color: rgba(93, 192, 255, 1);
+        font-size: 3em;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .OpcionesNav a:hover i {
+        display: block;
+        color: rgba(93, 192, 80, 1);
+        font-size: 3em;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .OpcionesNav a cite {
+        color: rgba(0,0,0,0.7);
+        font-style: normal;
+        font-size: 0.8em;
+    }
+    
+    .OpcionesNav a {
+        display: block;
+        width: 94%;
+        height: 150px;
+        background-color: rgba(255, 255, 255, 1);
+        border: solid 1px rgba(0,0,0,0.2);
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+        text-align: center;
+        color: rgb(0,0,0);
+        padding: 3%;
+        font-size: 1.2em;
+        border-radius: 5px;
+    }
+    .OpcionesNav a:hover {
+        display: block;
+        width: 94%;
+        min-height: 10px;
+        background-color: rgba(255, 255, 255, 1);
+        border: solid 1px rgba(70,106,50,1);
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+        text-align: center;
+        color: rgba(242, 103, 36, 1);
+        padding: 3%;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+
+
+.OpcionesNavRed {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+    
+    .OpcionesNavRed a i {
+        display: block;
+        font-size: 5em;
+        color: rgba(255,255,255,0.3);
+    }
+
+    .OpcionesNavRed a cite {
+        font-size: 0.5em;
+        color: rgba(0,0,0,0.7);
+        font-style: normal;
+    }
+    
+    .OpcionesNavRed a {
+        display: block;
+        width: 94%;
+        min-height: 10px;
+        background-color: rgba(180,0,0,1);
+        border: solid 1px rgba(0,0,0,0.2);
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+        text-align: center;
+        color: rgb(255,255,255);
+        font-size: 2em;
+        padding: 3%;
+    }
+    .OpcionesNavRed a:hover {
+        display: block;
+        width: 94%;
+        min-height: 10px;
+        background-color: rgba(50,0,0,1);
+        border: solid 1px rgba(70,106,50,1);
+        font-family: 'Source Sans Pro', Arial, sans-serif;
+        text-align: center;
+        color: rgb(255,255,255);
+        font-size: 2em;
+        padding: 3%;
+        text-decoration: none;
+    }
+
+
+.inbox_holder {
+    width: 100%;
+    height: 70vh;
+    margin: 0 auto;
+}
+.inbox_splitter {
+    width: 1px;
+    background-color: rgba(0, 0, 0, 0.15);
+    height: 70vh;
+}
+.inbox_item {
+    display: table;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+    .inbox_item a {
+        display: block;
+    }
+    .inbox_item a:hover {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+
+
+    .inbox_item a cite {
+        font-size: 0.7em;
+        color: rgba(0, 0, 0, 0.7);
+    }
+    .inbox_item a article {
+        font-size: 0.7em;
+        color: rgba(74, 35, 102, 1);
+    }
+    .inbox_item a b {
+        font-size: 0.7em;
+        color: rgba(208, 116, 0, 1);
+        font-weight: normal;
+    }
+
+.inboxPanel {
+    width: 100%;
+    height: 70vh;
+    overflow: scroll;
+}
+
+h1 {
+
+    font-size: 1.7em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: rgba(237, 27, 47, 1);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h2 {
+
+    font-size: 1.2em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.contenidos_seccioncolegios {
+    width: 100%;
+    min-height: 10px;
+    display: table;
+    margin: 0 auto;
+}
+    .contenidos_seccioncolegios h1 {
+        color: rgba(121, 162, 68, 1);
+        font-size: 1.72em;
+        font-weight: 300;
+    }
+    .contenidos_seccioncolegios h2 {
+        color: rgba(0, 0, 0, 0.4);
+        font-weight: 500;
+        font-size: 1.3em;
+    }
+    .contenidos_seccioncolegios h3 {
+        color: rgba(0, 0, 0, 1);
+        font-weight: 500;
+        font-size: 1em;
+    }
+
+
+.objeto_cuadro_link {
+    width: 100%;
+    min-height: 200px;
+    display: table;
+    margin: 0 auto;
+}
+    .objeto_cuadro_link a {
+        border: solid 1px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        display: block;
+        padding: 5%;
+        background-color: rgba(0, 0, 0, 0.05);
+    }
+    .objeto_cuadro_link a article {
+        display: block;
+        font-size: 5em;
+        text-align: center;
+        color: rgba(121, 162, 68, 1);
+    }
+    .objeto_cuadro_link a cite {
+        font-style: normal;
+        display: block;
+        width: 100%;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.7);
+        font-size: 0.9em;
+        min-height: 30px;
+    }
+
+    .objeto_cuadro_link a:hover {
+        border: solid 1px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        display: block;
+        padding: 5%;
+        background-color: rgba(121, 162, 68, 1);
+    }
+    .objeto_cuadro_link a:hover article {
+        display: block;
+        font-size: 5em;
+        text-align: center;
+        color: rgba(255, 255, 255, 1);
+    }
+    .objeto_cuadro_link a:hover cite {
+        font-style: normal;
+        display: block;
+        width: 100%;
+        text-align: center;
+        color: rgba(255, 255, 255, 1);
+        font-size: 0.9em;
+    }
+
+
+.login-70 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../imgs/fondo-login-bo.jpg);
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+@media (max-width: 768px) {
+    .contenidoMobile {
+        display: table;
+        min-height: 10px;
+        width: 100%;
+    }
+    .contenidoFull {
+        display: none;
+        min-height: 0px;
+    }
+    .panelDerechaTodo {
+        width: 100%;
+        min-height: 10px;
+        display: table;
+        float: none;
+        position: unset;
+    }
+    .menuMobileHolder {
+        background-color: rgba(32, 36, 45, 1);
+        color: rgba(255, 255, 255, 1);
+        font-size: 1em;
+        padding: 2%;
+    }
+    .menuMobileHolder nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    .menuMobileHolder nav ul li {
+        display: block;
+        text-transform: uppercase;
+    }
+    .menuMobileHolder nav ul li a {
+        display: table;
+        width: 90%;
+        min-height: 40px;
+        color: rgba(255, 255, 255, 1);
+        padding-left: 40%;
+        line-height: 40px;
+        border-bottom: solid 1px rgba(0, 0, 0, 0);
+    }
+        .menuMobileHolder nav ul li a i {
+            color: rgba(255, 255, 255, 0.4);
+            padding-right: 5%;
+        }
+
+    .menuMobileHolder nav ul li a:hover {
+        display: table;
+        width: 90%;
+        height: 40px;
+        color: rgba(0, 0, 0, 1);
+        background-color: rgba(255, 255, 255, 1);
+        color: rgba(0, 155, 219, 1);
+        border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+    }
+        .menuMobileHolder nav ul li a:hover i {
+            color: rgba(0, 0, 0, 0.4);
+            padding-right: 5%;
+            color: rgba(186, 0, 124, 1);
+        }
+    .mobileHeader {
+        width: 100%;
+        min-height: 10px;
+        display: table;
+    }
+}
